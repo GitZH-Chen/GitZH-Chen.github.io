@@ -27,8 +27,8 @@ Before my Ph.D. studies, I received a B.A. degree in logistics management from S
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.02*: &nbsp;🎉🎉 One paper was accepted to CVPR24: "**Ziheng Chen**, Yue Song, Gaowen Liu, Ramana Rao Kompella, Xiaojun Wu, Nicu Sebe, Riemannian Multiclass Logistics Regression for SPD Neural Networks".  
+- *2024.01*: &nbsp;🎉🎉 One paper was accepted to ICLR24: "**Ziheng Chen**, Yue Song, Yunmei Liu, Nicu Sebe, A Lie Group Approach to Riemannian Batch Normalization [[PDF](https://openreview.net/pdf?id=okYdj8Ysru)] [[Code](https://github.com/GitZH-Chen/LieBN)]". 
 
 # 📝 Publications 
 
