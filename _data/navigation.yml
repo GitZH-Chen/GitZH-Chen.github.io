@@ -7,11 +7,13 @@ main:
     url: "/#-news"
 
   - title: "Publications"
-    url: "/#-Selected Publications"
+    url: "/#-selected-publications"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
+  - title: "Personal Channels"
+    url: "/#-personal-channels"
   # - title: "Educations"
   #   url: "/#-educations"
 
