@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Ziheng Chen"
-description              : "PhD student at University of Trento."
+description              : "University of Trento."
 repository               : "GitZH-Chen/gitzh-chen.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Ziheng Chen"
   avatar           : "images/profile.png"
-  bio              : "Lorem ipsum College"
+  bio              : "PhD student"
   location         : "Trento, Italy"
   employer         :
   pubmed           : 
