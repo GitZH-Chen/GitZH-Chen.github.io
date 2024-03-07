@@ -13,8 +13,8 @@
 # 📖 Courses
 To obtain basic mathematical foundations for my research, I have self-studied several math courses, most of which were done during my master studies:
 Mathematical Analysis I, II, III; Real Analysis; Complex Analysis; Functional Analysis;
-Advanced Algebra I, II; Abstract Algebra I
-Topology; Differential Geometry; Differential Manifolds; Riemannian Geometry
+Advanced Algebra I, II; Abstract Algebra I;
+Topology; Differential Geometry; Differential Manifolds; Riemannian Geometry;
 Differential Equations; Convex Optimization...
 
 # 💻 Personal Channels
