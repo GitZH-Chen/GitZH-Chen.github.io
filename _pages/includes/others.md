@@ -11,6 +11,11 @@
 - *2020.12*, Non-autoregressive Speech Synthesis, Huawei Noah's Ark Lab internal talk -->
 
 # 📖 Courses
+To obtain basic mathematical foundations for my research, I have self-studied several math courses, most of which were done during my master studies:
+Mathematical Analysis I, II, III; Real Analysis; Complex Analysis; Functional Analysis;
+Advanced Algebra I, II; Abstract Algebra I
+Topology; Differential Geometry; Differential Manifolds; Riemannian Geometry
+Differential Equations; Convex Optimization...
 
 # 💻 Personal Channels
 [Differential Geometry](https://space.bilibili.com/351260924/channel/collectiondetail?sid=729465) (8k+ viewers)
