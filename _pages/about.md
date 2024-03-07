@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-**"天地有正气，杂然赋流形 -- 文天祥"**
+# "天地有正气，杂然赋流形 -- 文天祥"
 
 I am a PhD student affiliated with [Multimedia and Human Understanding Group (MHUG)](https://mhug.disi.unitn.it/#/) at [University of Trento, Italy](https://www.unitn.it/en), advised by [Nicu Sebe](https://scholar.google.com/citations?user=stFCYOAAAAAJ&hl=en).
 My research lies in the intersection of machine learning and differential geometry. Specifically, my current focuses are geometric deep learning and theories of matrix manifolds. I am always looking for collaborations. If you're interested in geometry-aware machine learning, email me.
