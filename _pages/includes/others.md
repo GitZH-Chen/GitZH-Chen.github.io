@@ -5,7 +5,7 @@
 - *2012.09 - 2015.06*, Luqiao Middle School, Taizhou. -->
 
 # 💬 Talks and Short Courses
-- *2024.03*, Naïve Riemannian Geometry: A One Hour Tour. Jiangnan University online internal talk
+- *2024.03*, Naïve Riemannian Geometry: A One Hour Tour. Jiangnan University internal talk （online）
 
 # 📖 Courses
 To obtain basic foundations for my research, I have self-studied several math courses, most of which were done during my master studies:
