@@ -6,10 +6,6 @@
 
 # 💬 Talks and Short Courses
 - *2024.03*, Naïve Riemannian Geometry: A One Hour Tour. Jiangnan University online internal talk
- <!-- \| [\[Video\]](https://www.bilibili.com/video/BV1wF411x7qh)
-- *2021.06*, Audio & Speech Synthesis, Huawei internal talk
-- *2021.03*, Non-autoregressive Speech Synthesis, PaperWeekly & biendata \| [\[video\]](https://www.bilibili.com/video/BV1uf4y1t7Hr/)
-- *2020.12*, Non-autoregressive Speech Synthesis, Huawei Noah's Ark Lab internal talk -->
 
 # 📖 Courses
 To obtain basic foundations for my research, I have self-studied several math courses, most of which were done during my master studies:
