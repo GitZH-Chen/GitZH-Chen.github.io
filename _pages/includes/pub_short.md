@@ -1,5 +1,5 @@
 # 📝 Selected Publications 
-- ``CVPR 2024`` **Ziheng Chen**, Yue Song, Gaowen Liu, Ramana Rao Kompella, Xiaojun Wu, Nicu Sebe, Riemannian Multiclass Logistics Regression for SPD Neural Networks.
-- ``ICLR 2024`` **Ziheng Chen**, Yue Song, Yunmei Liu, Nicu Sebe, A Lie Group Approach to Riemannian Batch Normalization [[PDF](https://openreview.net/pdf?id=okYdj8Ysru)] [[Code](https://github.com/GitZH-Chen/LieBN)] [[Slides](https://github.com/GitZH-Chen/LieBN/blob/main/ICLR24_LieBN_PPT.pdf)] [[Poster](https://github.com/GitZH-Chen/LieBN/blob/main/ICLR24_LieBN_Poster.pdf)].
-- ``AAAI 2023`` **Ziheng Chen**, Tianyang Xu, Xiao-Jun Wu, Rui Wang, Zhiwu Huang, Josef Kittler, Riemannian Local Mechanism for SPD Neural Networks [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/25867/25639)] [[Code](https://github.com/GitZH-Chen/MSNet)] [[Slides](https://github.com/GitZH-Chen/MSNet/blob/main/AAAI23-Riemannian%20Local%20Mechanism.pdf)] [[Poster](https://github.com/GitZH-Chen/MSNet/blob/main/AAAI23_POSTER_Submanifolds.pdf)].
-{% include_relative includes/publications/2021-TBD_Hbrid.md %}
+{% include_relative includes/publications/2024-CVPR-RieClsSPD.md %}
+{% include_relative includes/publications/2024-ICLR-LieBN.md %}
+{% include_relative includes/publications/2023-AAAI-RieLocal.md %}
+{% include_relative includes/publications/2021-TBD-Hbrid.md %}
