@@ -1,1 +1,0 @@
-- ``CVPR 2024`` **Ziheng Chen**, Yue Song, Gaowen Liu, Ramana Rao Kompella, Xiaojun Wu, Nicu Sebe, Riemannian Multinomial Logistics Regression for SPD Neural Networks.
