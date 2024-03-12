@@ -23,8 +23,7 @@ redirect_from:
 
 {% include_relative includes/news.md %}
 
-# 📝 Selected Publications 
-{% include_relative pubs/2024-CVPR-SPDMLR.md %}
+{% include_relative includes/pub_short.md %}
 
 {% include_relative includes/honers.md %}
 
