@@ -23,8 +23,6 @@ redirect_from:
 
 {% include_relative includes/news.md %}
 
-<!-- {% include_relative includes/pub_short.md %} -->
-
 # 📝 Selected Publications 
 {% include_relative pubs/2024-CVPR-SPDMLR.md %}
 <!-- {% include_relative includes/pubs/2024-ICLR-LieBN.md %}
