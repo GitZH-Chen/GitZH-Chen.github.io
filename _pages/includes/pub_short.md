@@ -1,6 +1,6 @@
 # 📝 Selected Publications 
 {% comment %}
-{% include_relative pubs/2024-CVPR-SPDMLR.md %}
+{% include_relative includes/pubs/2024-CVPR-SPDMLR.md %}
 {% endcomment %}
 {% include_relative pubs/2024-ICLR-LieBN.md %}
 {% comment %}
