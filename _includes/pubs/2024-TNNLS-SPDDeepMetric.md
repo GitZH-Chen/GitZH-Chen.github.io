@@ -1,0 +1,2 @@
+- ``TNNLS 2024`` Wang Rui, Wu Xiao-Jun, **Chen Ziheng**, Hu Cong, Kittler Josef, SPD Manifold Deep Metric Learning for Image Set Classification.
+[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10467142)]
