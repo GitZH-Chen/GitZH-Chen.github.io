@@ -30,4 +30,3 @@ redirect_from:
 {% include_relative includes/others.md %}
 
 <!-- <a href="https://info.flagcounter.com/UTQG"><img src="https://s11.flagcounter.com/mini/UTQG/bg_FFFFFF/txt_000000/border_CCCCCC/flags_0/" alt="Flag Counter" border="0"></a> -->
-<div style="display:inline-block;width:200px;"><script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5b1f48smqda&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;sx=0" async="async"></script></div>
