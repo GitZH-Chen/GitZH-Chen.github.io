@@ -30,5 +30,13 @@ redirect_from:
 {% include_relative includes/others.md %}
 
 <!-- <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=ykPbI30LsamiuG9mdkAJKZzccIjf7o4rxc-dBMXGY20"></script> -->
+<table align="right", style="width:20%;border:0px;border-spacing:0px;border-collapse:separate;vertical-align: bottom;"><tbody>
+  <tr>
+    <td style="padding:15px;width:10%;vertical-align:middle">
+      <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=afeIQSK3lal5Bc8L-8eaHbv1W5ZtwqTyvLzoEYsw1R4">
+      </script>
+    </td>
+    </tr>
+    </tbody></table>
 
 <!-- <a href="https://info.flagcounter.com/UTQG"><img src="https://s11.flagcounter.com/mini/UTQG/bg_FFFFFF/txt_000000/border_CCCCCC/flags_0/" alt="Flag Counter" border="0"></a> -->
