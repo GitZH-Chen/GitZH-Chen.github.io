@@ -15,5 +15,5 @@ To obtain basic foundations for my research, I have self-studied several math co
 - Differential Equations, Convex Optimization, Numerical Optimization...
 
 # 💻 Personal Channels
-[Differential Geometry](https://space.bilibili.com/351260924/channel/collectiondetail?sid=729465) (8k+ viewers)
+[Differential Geometry](https://space.bilibili.com/351260924/channel/collectiondetail?sid=729465) (9k+ viewers)
 [Riemannian Geometry](https://space.bilibili.com/351260924/channel/collectiondetail?sid=936223) (2k+ viewers)
