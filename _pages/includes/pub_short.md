@@ -1,5 +1,5 @@
 # 📝 Selected Publications 
-(†Corresponding Author) 
+(† Corresponding Author) 
 {% include pubs/2024-IJCAI-GDLNet.md %}
 {% include pubs/2024-TNNLS-SPDDeepMetric.md %}
 {% include pubs/2024-CVPR-SPDMLR.md %}
