@@ -1,4 +1,5 @@
 # 📝 Selected Publications 
+{% include pubs/2024-IJCAI-GDLNet.md %}
 {% include pubs/2024-TNNLS-SPDDeepMetric.md %}
 {% include pubs/2024-CVPR-SPDMLR.md %}
 {% include pubs/2024-ICLR-LieBN.md %}
