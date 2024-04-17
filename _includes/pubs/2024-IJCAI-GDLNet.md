@@ -1,1 +1,2 @@
-- ``IJCAI 2024`` Rui Wang, Chen Hu, **Ziheng Chen<sup>†</sup>**, Xiao-Jun Wu, Xiaoning Song, A Grassmannian Manifold Self-Attention Network for Signal Classification.
+- ``IJCAI 2024`` Rui Wang, Chen Hu, **Ziheng Chen**, Xiao-Jun Wu, Xiaoning Song, A Grassmannian Manifold Self-Attention Network for Signal Classification.
+<!-- <sup>†</sup> -->
