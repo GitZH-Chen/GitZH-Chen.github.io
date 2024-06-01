@@ -3,3 +3,4 @@
 [[Code](https://github.com/GitZH-Chen/SPDMLR)]
 [[Slides](https://github.com/GitZH-Chen/SPDMLR/blob/main/CVPR24_SPDMLR_PPT.pdf)] 
 [[Poster](https://github.com/GitZH-Chen/SPDMLR/blob/main/CVPR24_SPDMLR_Poster.pdf)]
+[[Video](https://cvpr.thecvf.com/virtual/2024/poster/30661)]
