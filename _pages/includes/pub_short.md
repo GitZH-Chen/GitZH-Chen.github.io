@@ -1,5 +1,6 @@
 # 📝 Selected Publications 
 († denotes the corresponding author) 
+{% include pubs/2024-Arxiv-CovPooling.md %}
 {% include pubs/2024-Arxiv-Cho_Metric.md %}
 {% include pubs/2024-IJCAI-GDLNet.md %}
 {% include pubs/2024-TNNLS-SPDDeepMetric.md %}
