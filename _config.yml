@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Ziheng Chen"
-  avatar           : "images/photo.jpeg"
+  avatar           : "images/photo.png"
   bio              : "Ph.D. student"
   location         : "Trento, Italy"
   employer         :
