@@ -3,4 +3,4 @@ My research lies in the intersection of machine learning and differential geomet
 
 Before my Ph.D. studies, I received a B.A. degree in logistics management from Shandong University, Jinan, China, and an M.S. degree in computer science and technology from Jiangnan University, Wuxi, China, under the supervision of Prof. [Xiao-Jun Wu](https://scholar.google.co.uk/citations?user=5IST34sAAAAJ&hl=en). 
 
-Currently, I co-supervise several master students with Lect. [Rui Wang](https://scholar.google.com/citations?user=Ow1zCswAAAAJ&hl=en). I am always looking for collaborations. If you're interested in geometry-aware machine learning, email me.
+Currently, I co-supervise several students with Lect. [Rui Wang](https://scholar.google.com/citations?user=Ow1zCswAAAAJ&hl=en).
