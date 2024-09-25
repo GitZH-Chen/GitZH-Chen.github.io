@@ -6,6 +6,7 @@
 {% include pubs/2024-Arxiv-Cho_Metric.md %}
 
 **Conferences**
+{% include pubs/2024-NeurIPS-RMLR.md %}
 {% include pubs/2024-IJCAI-GDLNet.md %}
 {% include pubs/2024-CVPR-SPDMLR.md %}
 {% include pubs/2024-ICLR-LieBN.md %}
