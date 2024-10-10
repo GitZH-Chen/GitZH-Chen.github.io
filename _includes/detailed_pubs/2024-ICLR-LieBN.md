@@ -1,4 +1,4 @@
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/paper_images/ICLR-LieBN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/paper_images/ICLR24-LieBN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Lie Group Approach to Riemannian Batch Normalization](https://openreview.net/pdf?id=okYdj8Ysru) \\
