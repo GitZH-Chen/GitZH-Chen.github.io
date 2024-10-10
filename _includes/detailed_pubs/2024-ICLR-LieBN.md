@@ -5,7 +5,7 @@
 **Ziheng Chen**, Yue Song, Yunmei Liu, Nicu Sebe. [**Code**](https://github.com/GitZH-Chen/LieBN) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
 - Propose a Riemannian batch normalization (LieBN) framework over general Lie groups, with controllable first- and second-order statistical moments.
-- Manifest specific LieBN layers on SPD manifolds under three deformed Lie groups as well as the Lie group of rotation matrices.
+- Manifests specific LieBN layers on SPD manifolds under three deformed Lie groups as well as the Lie group of rotation matrices.
 
 </div>
 </div>
