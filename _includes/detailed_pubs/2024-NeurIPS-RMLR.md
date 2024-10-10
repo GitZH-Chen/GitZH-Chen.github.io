@@ -1,4 +1,4 @@
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/paper_images/NeurIPS24-RMLR.png' alt="sym" width="500" height="300"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/paper_images/NeurIPS24-RMLR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [RMLR: Extending Multinomial Logistic Regression into General Geometries](http://arxiv.org/abs/2409.19433) \\
