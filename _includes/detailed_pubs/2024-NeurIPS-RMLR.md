@@ -5,7 +5,7 @@
 **Ziheng Chen**, Yue Song, Rui Wang, Xiaojun Wu, Nicu Sebe. [**Code**](https://github.com/GitZH-Chen/RMLR) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
 - Extends our flat SPD MLR (CVPR24) into Riemannian MLR over general geometries.
-- Proposes 5 families of SPD MLRs based on different geometries of the SPD manifold.
+- Proposes five families of SPD MLRs based on different geometries of the SPD manifold.
 - Proposes a novel Lie MLR for deep neural networks on rotation matrices.
 
 </div>
