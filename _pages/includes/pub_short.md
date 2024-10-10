@@ -1,7 +1,9 @@
 # 📝 Selected Publications 
 († denotes the corresponding author) 
 
+
 {% include detailed_pubs/2024-CVPR-SPDMLR.md %}
+{% include detailed_pubs/2024-ICLR-LieBN.md %}
 
 **Preprints**
 {% include pubs/2024-Arxiv-CovPooling.md %}
