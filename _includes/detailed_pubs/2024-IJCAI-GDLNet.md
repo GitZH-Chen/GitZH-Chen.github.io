@@ -2,7 +2,7 @@
     <div class='paper-box-image' style="display: flex; justify-content: center; align-items: center;">
         <div>
             <div class="badge">IJCAI 2024</div>
-            <img src='images/paper_images/IJCAI24-GDLNet.png' alt="sym" style="height: 300px; width: auto;">
+            <img src='images/paper_images/IJCAI24-GDLNet.png' alt="sym" style="height: 250px; width: auto;">
         </div>
     </div>
     <div class='paper-box-text' markdown="1">
