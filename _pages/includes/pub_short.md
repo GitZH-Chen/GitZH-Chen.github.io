@@ -1,6 +1,8 @@
 # 📝 Selected Publications 
 († denotes the corresponding author) 
 
+{% include detailed_pubs/2024-CVPR-SPDMLR.md %}
+
 **Preprints**
 {% include pubs/2024-Arxiv-CovPooling.md %}
 {% include pubs/2024-Arxiv-Cho_Metric.md %}
