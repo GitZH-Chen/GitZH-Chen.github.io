@@ -1,4 +1,4 @@
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/paper_images/IJCAI24-GDLNet.png' alt="sym" height="200"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/paper_images/IJCAI24-GDLNet.png' alt="sym" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Grassmannian Manifold Self-Attention Network for Signal Classification](https://www.ijcai.org/proceedings/2024/0564.pdf) \\
