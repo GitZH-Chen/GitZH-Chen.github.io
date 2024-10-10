@@ -4,7 +4,9 @@
 [RMLR: Extending Multinomial Logistic Regression into General Geometries](http://arxiv.org/abs/2409.19433) \\
 **Ziheng Chen**, Yue Song, Rui Wang, Xiaojun Wu, Nicu Sebe. [**Code**](https://github.com/GitZH-Chen/RMLR) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
-- Designs the self-attention over the Grassmannian for EEG decoding.
+- Develops a general framework for designing Riemannian MLR over general geometries, incorporating several previous Riemannian MLRs on different geometries. 
+-Proposes 5 families of SPD MLRs based on different geometries of the SPD manifold.
+-Proposes a novel Lie MLR for deep neural networks on rotation matrices.
 
 </div>
 </div>
