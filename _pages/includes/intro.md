@@ -4,3 +4,5 @@ My research lies in the intersection of machine learning and differential geomet
 Before my Ph.D. studies, I received a B.A. degree in logistics management from Shandong University, Jinan, China, and an M.S. degree in computer science and technology from Jiangnan University, Wuxi, China, under the supervision of Prof. [Xiao-Jun Wu](https://scholar.google.co.uk/citations?user=5IST34sAAAAJ&hl=en). 
 
 Currently, I co-supervise several students with Lect. [Rui Wang](https://ai.jiangnan.edu.cn/info/1081/2941.htm).
+
+**<span style="color: red;">I am actively seeking PhD research internships or exchange opportunities in the field of generative models. If you have any openings, feel free to contact me via email.</span>**
