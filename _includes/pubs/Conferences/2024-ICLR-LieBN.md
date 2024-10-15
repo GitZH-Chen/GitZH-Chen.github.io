@@ -1,4 +1,4 @@
-- ``ICLR 2024`` 
+- <span class="conf-badge">ICLR 2024</span>
 [A Lie Group Approach to Riemannian Batch Normalization](https://openreview.net/pdf?id=okYdj8Ysru),
 **Ziheng Chen**, Yue Song, Yunmei Liu, Nicu Sebe.
 [[Code](https://github.com/GitZH-Chen/LieBN)] 

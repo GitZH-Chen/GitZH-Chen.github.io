@@ -1,4 +1,4 @@
-- ``CVPR 2024`` 
+- <span class="conf-badge">CVPR 2024</span>
 [Riemannian Multinomial Logistics Regression for SPD Neural Networks](https://arxiv.org/abs/2305.11288),
 **Ziheng Chen**, Yue Song, Gaowen Liu, Ramana Rao Kompella, Xiaojun Wu, Nicu Sebe.
 [[Code](https://github.com/GitZH-Chen/SPDMLR)]
