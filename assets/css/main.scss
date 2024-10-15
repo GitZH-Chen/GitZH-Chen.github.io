@@ -110,8 +110,8 @@ h1:before, .anchor:before {
 
 .conf-badge {
     display: inline-block; /* Ensures it stays inline */
-    padding-left: 0.1rem;
-    padding-right: 0.1rem;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
     margin-right: 5px; /* Space between badge and text */
     color: white;
     background-color: #00369f; /* Adjust color as needed */
@@ -119,9 +119,8 @@ h1:before, .anchor:before {
     box-sizing: border-box; /* Include padding in the width */
     text-align: center; /* Center the text */
     vertical-align: middle; /* Align the badge with text */
-    max-width: max-content; /* Ensure the badge only takes as much width as its content */
+    /* Remove width: 100% to let the badge size according to its content */
 }
-
 
 .journal-badge {
     display: inline-block; /* Ensures it stays inline */
