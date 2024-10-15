@@ -109,15 +109,14 @@ h1:before, .anchor:before {
 }
 
 .conf-badge {
-    display: inline-block; /* Ensures it stays inline */
+    display: inline-block;
     margin-right: 5px; /* Space between badge and text */
     color: white;
     background-color: #00369f; /* Adjust color as needed */
     font-size: .8em;
-    width: 100%; /* Make the badge take up the full width */
-    box-sizing: border-box; /* Include padding in the width */
     text-align: center; /* Center the text */
     vertical-align: middle; /* Align the badge with text */
+    /* No padding */
 }
 
 .journal-badge {
