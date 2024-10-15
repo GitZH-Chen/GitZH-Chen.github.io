@@ -108,13 +108,14 @@ h1:before, .anchor:before {
     font-size: .8em;
 }
 
-.custom-badge {
-    display: inline-block;
-    background-color: #0033cc; /* Dark Blue */
+.conf-badge {
+    display: inline-block; /* Ensure it stays inline */
+    padding-left: 1rem;
+    padding-right: 1rem;
+    margin-right: 10px; /* Space between badge and text */
     color: white;
-    font-size: 16px;
-    padding: 10px 20px;
-    border-radius: 8px;
-    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
-    font-family: Arial, sans-serif;
-  }
+    background-color: #00369f; /* Adjust color as needed */
+    font-size: .8em;
+    border-radius: 5px; /* Rounded corners to match badge look */
+    vertical-align: middle; /* Align the badge with the text */
+}
