@@ -119,8 +119,9 @@ h1:before, .anchor:before {
     box-sizing: border-box; /* Include padding in the width */
     text-align: center; /* Center the text */
     vertical-align: middle; /* Align the badge with text */
-    /* Remove width: 100% to let the badge size according to its content */
+    max-width: max-content; /* Ensure the badge only takes as much width as its content */
 }
+
 
 .journal-badge {
     display: inline-block; /* Ensures it stays inline */
