@@ -1,4 +1,4 @@
-- ``TIP 2024`` 
+- ![Journal](https://img.shields.io/badge/TIP-2024-blue)
 [Adaptive Log-Euclidean Metrics for SPD Matrix Learning](https://arxiv.org/abs/2303.15477),
 **Ziheng Chen**, Yue Song, Tianyang Xu, Zhiwu Huang, Xiao-Jun Wu, and Nicu Sebe.
 [[Code](https://github.com/GitZH-Chen/ALEM)] 
