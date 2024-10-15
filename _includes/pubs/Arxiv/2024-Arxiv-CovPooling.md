@@ -1,4 +1,4 @@
-- ``Arxiv 2024`` 
+- <span class="arxiv-badge">Arxiv 2024</span>
 [Understanding Matrix Function Normalizations in Covariance Pooling through the Lens of Riemannian Geometry](https://arxiv.org/abs/2407.10484),
 **Ziheng Chen**, Yue Song, Xiao-Jun Wu, Gaowen Liu, Nicu Sebe.
 <!-- [[Code](https://github.com/GitZH-Chen/CDEM_CDBWM)]  -->
