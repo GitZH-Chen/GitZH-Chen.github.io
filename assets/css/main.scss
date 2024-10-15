@@ -116,10 +116,10 @@ h1:before, .anchor:before {
     color: white;
     background-color: #00369f; /* Adjust color as needed */
     font-size: .8em;
-    width: 100%; /* Make the badge take up the full width */
     box-sizing: border-box; /* Include padding in the width */
     text-align: center; /* Center the text */
     vertical-align: middle; /* Align the badge with text */
+    /* Remove width: 100% to let the badge size according to its content */
 }
 
 .journal-badge {
