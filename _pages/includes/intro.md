@@ -5,4 +5,3 @@ Before my Ph.D. studies, I received a B.A. degree in logistics management from S
 
 Currently, I co-supervise several students with [Rui Wang](https://ai.jiangnan.edu.cn/info/1081/2941.htm).
 
-**<span style="color: red;">I am actively seeking PhD research internships or exchange opportunities in the field of generative models. If you have any openings, feel free to contact me via email.</span>**
