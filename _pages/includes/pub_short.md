@@ -6,8 +6,8 @@
 {% include detailed_pubs/2024-ICLR-LieBN.md %}
 {% include detailed_pubs/2024-CVPR-SPDMLR.md %}
 {% include detailed_pubs/2024-NeurIPS-RMLR.md %}
-{% include detailed_pubs/2024-TIP-ALEM.md %}
-{% include detailed_pubs/2024-IJCAI-GDLNet.md %}
+<!-- {% include detailed_pubs/2024-TIP-ALEM.md %}
+{% include detailed_pubs/2024-IJCAI-GDLNet.md %} -->
 
 
 
