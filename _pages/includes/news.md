@@ -1,5 +1,5 @@
 # 🌟 News
-- *2025.01*: Two papers were accepted to ICLR 2025!! One for batch normalization over gyrogroups, the other for interpreting high-order pooling.
+- *2025.01*: Two papers were accepted to ICLR 2025!! One for Riemannian batch normalization over gyrogroups, the other for interpreting high-order pooling via Riemannian geometry.
 - *2024.09*: One paper on Riemannian classifiers over general geometries was accepted to NeurIPS 2024 (final rating: 877).
 - *2024.08*: One paper on adaptive Riemannian metrics for SPD matrix learning was accepted by TIP.
 - *2024.04*: One paper on Grassmannian self-attention was accepted to IJCAI 2024. Congrats Rui and Chen!
