@@ -14,8 +14,8 @@
 {% include pubs/Arxiv/2024-Arxiv-Cho_Metric.md %}
 
 **Conferences**
-{% include pubs/Conferences/2025-ICLR-GyroBN.md %}
-{% include pubs/Conferences/2025-ICLR-CovPooling.md %}
+{% include pubs/Conferences/2025-ICLR25-GyroBN.md %}
+{% include pubs/Conferences/2025-ICLR25-CovPooling.md %}
 {% include pubs/Conferences/2024-NeurIPS-RMLR.md %}
 {% include pubs/Conferences/2024-IJCAI-GDLNet.md %}
 {% include pubs/Conferences/2024-CVPR-SPDMLR.md %}
