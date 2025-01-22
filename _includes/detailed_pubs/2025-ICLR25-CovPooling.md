@@ -12,5 +12,6 @@
 - Explains the working mechanism of matrix functions in Global Covariance Pooling from the perspectives of tangent and Riemannian classifiers, and finally claims that the rationality of matrix functions should be attributed to the Riemannian classifiers they implicitly respect.
 - Validates the theoretical argument on the ImageNet and three FGVC datasets through comprehensive experiments.  
 
+
 </div>
 </div>
