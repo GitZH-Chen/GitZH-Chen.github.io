@@ -4,7 +4,7 @@
 [Riemannian Multinomial Logistics Regression for SPD Neural Networks](https://arxiv.org/abs/2305.11288) \\
 **Ziheng Chen**, Yue Song, Gaowen Liu, Ramana Rao Kompella, Xiaojun Wu, Nicu Sebe. [**Code**](https://github.com/GitZH-Chen/SPDMLR) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
-- Extends of the Euclidean Multinomial Logistic Regression (MLR) to the SPD manifold under flat Riemannian metrics.
+- Extends the Euclidean Multinomial Logistic Regression (MLR) to the SPD manifold under flat Riemannian metrics.
 - Manifests the framework on the Log-Euclidean (LE) and Log-Cholesky (LC) metrics.
 - Provides the first intrinsic explanation for the widely used LogEig classifier.
 
