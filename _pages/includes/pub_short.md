@@ -11,7 +11,6 @@
 
 
 **Preprints**
-{% include pubs/Arxiv/2024-Arxiv-CovPooling.md %}
 {% include pubs/Arxiv/2024-Arxiv-Cho_Metric.md %}
 
 **Conferences**
