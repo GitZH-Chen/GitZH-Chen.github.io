@@ -2,7 +2,7 @@
     <div class='paper-box-image' style="display: flex; justify-content: center; align-items: center;">
         <div>
             <div class="badge">ICLR 2025</div>
-            <img src='images/paper_images/2025-ICLR25-GyroBN.md' alt="sym" width="100%">
+            <img src='images/paper_images/2025-ICLR25-GyroBN.png' alt="sym" width="100%">
         </div>
     </div>
     <div class='paper-box-text' markdown="1">
