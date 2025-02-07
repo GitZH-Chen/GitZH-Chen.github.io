@@ -4,6 +4,6 @@ Before my Ph.D. studies, I received a B.A. degree in logistics management from S
 
 Currently, I co-supervise several students with [Rui Wang](https://ai.jiangnan.edu.cn/info/1081/2941.htm).
 
-I am building a GitHub repo, [Awesome-Riemannian-Deep-Learning](https://github.com/GitZH-Chen/Awesome-Riemannian-Deep-Learning), focused on deep learning over Riemannian spaces. 🚀
+I am building a GitHub repo, [DeepRiemannNet](https://github.com/GitZH-Chen/Awesome-Riemannian-Deep-Learning), focused on deep learning over Riemannian spaces. 🚀
 
 
