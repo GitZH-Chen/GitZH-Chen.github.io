@@ -1,5 +1,5 @@
 # 🌟 News
-- *2025.02*: One paper on Riemannian batch normalization for ill-conditioning SPD matrices was accepted to CVPR 2025. It is the first CVPR paper with Jiangnan University as the first affiliation! Congrats Rui and Shaocheng!
+- *2025.02*: One paper on Riemannian batch normalization for ill-conditioning SPD matrices was accepted to CVPR 2025. Congrats Rui and Shaocheng!
 - *2025.01*: Two papers were accepted to ICLR 2025!! One for Riemannian batch normalization over gyrogroups, the other for interpreting high-order pooling via Riemannian geometry.
 - *2024.09*: One paper on Riemannian classifiers over general geometries was accepted to NeurIPS 2024 (final rating: 877).
 - *2024.08*: One paper on adaptive Riemannian metrics for SPD matrix learning was accepted by TIP.
