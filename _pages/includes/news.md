@@ -1,5 +1,5 @@
 # 🌟 News
-- *2025.02*: One paper on Riemannian batch normalization for ill-conditioning SPD matrices was accepted to CVPR 2025. 
+- *2025.02*: One paper on Riemannian batch normalization for ill-conditioned SPD matrices was accepted to CVPR 2025. 
 It is one of the first CVPR papers with Jiangnan University as the first affiliation!
 Congrats Rui and Shaocheng!
 - *2025.01*: Two papers were accepted to ICLR 2025!! One for Riemannian batch normalization over gyrogroups, the other for interpreting high-order pooling via Riemannian geometry.
