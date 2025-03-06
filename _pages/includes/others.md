@@ -16,7 +16,7 @@ To obtain basic foundations for my research, I have self-studied several math co
 
 # 💻 Personal Channels
 - [Differential Equations](https://space.bilibili.com/351260924/channel/collectiondetail?sid=1171872) (1k+ viewers)
-- [Topology](https://space.bilibili.com/351260924/channel/collectiondetail?sid=1150168) (1k+ viewers)
+- [Topology](https://space.bilibili.com/351260924/channel/collectiondetail?sid=1150168) (2k+ viewers)
 - [Differential Geometry](https://space.bilibili.com/351260924/channel/collectiondetail?sid=729465) (1w+ viewers)
 - [Riemannian Geometry](https://space.bilibili.com/351260924/channel/collectiondetail?sid=936223) (2k+ viewers)
 
