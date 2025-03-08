@@ -4,4 +4,4 @@
 [[Code](https://github.com/GitZH-Chen/GyroBN)]
 [[Slides](https://github.com/GitZH-Chen/GyroBN/blob/main/ICLR25_GyroBN-PPT.pdf)]
 <!-- [[Poster](https://github.com/GitZH-Chen/RMLR/raw/main/NeurIPS24_RMLR_Poster.pdf)]
-[[Video](https://iclr.cc/virtual/2024/poster/17806)] --> -->
+[[Video](https://iclr.cc/virtual/2024/poster/17806)] -->
