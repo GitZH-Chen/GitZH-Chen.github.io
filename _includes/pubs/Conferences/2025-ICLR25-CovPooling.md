@@ -3,5 +3,5 @@
 **Ziheng Chen**, Yue Song, Xiao-Jun Wu, Gaowen Liu, Nicu Sebe.
 [[Code](https://github.com/GitZH-Chen/RiemGCP)] 
 [[Slides](https://github.com/GitZH-Chen/RiemGCP/blob/main/PPT-ICLR25-RiemGCP.pdf)]
-<!-- [[Poster](https://github.com/GitZH-Chen/RMLR/raw/main/NeurIPS24_RMLR_Poster.pdf)]
-[[Video](https://iclr.cc/virtual/2024/poster/17806)] -->
+[[Video](https://recorder-v3.slideslive.com/?share=98412&s=c3233557-a43d-4797-bdfa-8c4659f3ff9f)]
+<!--[[Poster](https://github.com/GitZH-Chen/RMLR/raw/main/NeurIPS24_RMLR_Poster.pdf)] -->
