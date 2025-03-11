@@ -6,7 +6,7 @@
 
 # 💬 Talks and Short Courses
 - *2024.03*, Naïve Riemannian Geometry: A One Hour Tour. Jiangnan University internal talk (online).
-- *2025.03*, Riemannian Deep Learning: Normalization and Classification. University of Alberta
+- *2025.03*, Riemannian Deep Learning: Normalization and Classification. University of Alberta. 
 
 # 📖 Courses
 To obtain basic foundations for my research, I have self-studied several math courses, most of which were done during my master studies:
