@@ -4,7 +4,7 @@
 - *2015.09 - 2019.06*, Undergraduate, Chu Kochen Honors College, Zhejiang Univeristy, Hangzhou.
 - *2012.09 - 2015.06*, Luqiao Middle School, Taizhou. -->
 
-# 💬 Talks and Short Courses
+# 💬 Invited Talks
 - *2025.03*, Riemannian Deep Learning: Normalization and Classification. University of Alberta. [[Slides](https://github.com/GitZH-Chen/GitZH-Chen.github.io/blob/main/assets/files/Talks-25-UAlberta-Riemannian-Deep-Learning.pdf)]
 - *2024.03*, Naïve Riemannian Geometry: A One Hour Tour. Jiangnan University (internal talk).
 
