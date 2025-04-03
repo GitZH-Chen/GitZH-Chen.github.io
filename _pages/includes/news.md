@@ -1,4 +1,5 @@
 # 🌟 News
+- *2025.03*: One paper on the Riemannian approach for skeleton-based action recognition was accepted by IEEE Transactions on Instrumentation & Measurement (TIM). Congrats Rui and Jiayao!
 - *2025.02*: One paper on Riemannian batch normalization for ill-conditioned SPD matrices was accepted to CVPR 2025. 
 It is one of the first CVPR papers with Jiangnan University as the first affiliation!
 Congrats Rui and Shaocheng!
