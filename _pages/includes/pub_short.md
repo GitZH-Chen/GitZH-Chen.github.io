@@ -27,6 +27,7 @@
 {% include pubs/Conferences/2023-AAAI-RieLocal.md %}
 
 **Journals**
+{% include pubs/Journals/2025-TIM-STRN.md %}
 {% include pubs/Journals/2024-TIP-ALEM.md %}
 {% include pubs/Journals/2024-TNNLS-SPDDeepMetric.md %}
 {% include pubs/Journals/2021-TBD-Hbrid.md %}
