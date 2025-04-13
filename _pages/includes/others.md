@@ -21,5 +21,6 @@ To obtain basic foundations for my research, I have self-studied several math co
 - [Topology](https://space.bilibili.com/351260924/channel/collectiondetail?sid=1150168) (2k+ viewers)
 - [Differential Geometry](https://space.bilibili.com/351260924/channel/collectiondetail?sid=729465) (1w+ viewers)
 - [Riemannian Geometry](https://space.bilibili.com/351260924/channel/collectiondetail?sid=936223) (2k+ viewers)
-
+- [Riemannian Geometry](https://space.bilibili.com/351260924/channel/collectiondetail?sid=936223) (2k+ viewers)
+- [Measure Theory](https://www.bilibili.com/video/BV1bko3YAEec/?spm_id_from=333.999.0.0&vd_source=772808083d3cad934770bfc96a36ce05)
 
