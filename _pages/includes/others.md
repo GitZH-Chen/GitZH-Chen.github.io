@@ -8,7 +8,6 @@
 - *2025.03*: Riemannian Deep Learning: Normalization and Classification. University of Alberta. [[Slides](https://github.com/GitZH-Chen/GitZH-Chen.github.io/blob/main/assets/files/Talks-25-UAlberta-Riemannian-Deep-Learning.pdf)]
 - *2024.03*: Naïve Riemannian Geometry: A One Hour Tour. Jiangnan University (internal talk).
 
-
 # 📖 Courses
 To obtain basic foundations for my research, I have self-studied several math courses, most of which were done during my master studies:
 - Mathematical Analysis I, II, III, Real Analysis, Complex Analysis, Functional Analysis;
