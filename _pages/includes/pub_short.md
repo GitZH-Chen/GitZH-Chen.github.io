@@ -17,7 +17,6 @@
 {% include pubs/Arxiv/2024-Arxiv-Cho_Metric.md %}
 
 **Conferences**
-{% include pubs/Conferences/2025-IJCAI25-CorAtt.md %}
 {% include pubs/Conferences/2025-CVPR25-GBWMBN.md %}
 {% include pubs/Conferences/2025-ICLR25-GyroBN.md %}
 {% include pubs/Conferences/2025-ICLR25-CovPooling.md %}
