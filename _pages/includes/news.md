@@ -1,5 +1,5 @@
 # 🌟 News
-- *2025.04*: One paper on Riemannian attention over the correlation manifold was accepted to IJCAI 2025. Congrats Chen!
+<!-- - *2025.04*: One paper on Riemannian attention over the correlation manifold was accepted to IJCAI 2025. Congrats Chen! -->
 - *2025.04*: Our CVPR25 and ICLR25 (on high-order pooling) papers was selected as posters to [VALSE 2025](https://valser.org/2025/#/poster).
 - *2025.03*: One paper on the Riemannian approach for skeleton-based action recognition was accepted by IEEE Transactions on Instrumentation & Measurement (TIM). Congrats Rui and Jiayao!
 - *2025.02*: One paper on Riemannian batch normalization for ill-conditioned SPD matrices was accepted to CVPR 2025. 
