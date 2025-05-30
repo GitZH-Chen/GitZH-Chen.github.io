@@ -5,7 +5,7 @@
 - *2012.09 - 2015.06*, Luqiao Middle School, Taizhou. -->
 
 # 💬 Invited Talks
-- *2025.06*: Riemannian Normalization over Non-trivial Geometry. Jiangnan University.
+- *2025.06*: Riemannian Normalization over Tractbale Geometry. Jiangnan University.
 - *2025.03*: Riemannian Deep Learning: Normalization and Classification. University of Alberta. [[Slides](https://github.com/GitZH-Chen/GitZH-Chen.github.io/blob/main/assets/files/Talks-25-UAlberta-Riemannian-Deep-Learning.pdf)]
 - *2024.03*: Naïve Riemannian Geometry: A One Hour Tour. Jiangnan University (internal talk).
 
