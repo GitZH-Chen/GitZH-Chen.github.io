@@ -3,7 +3,7 @@ Before my Ph.D. studies, I received a B.A. degree in logistics management from S
 
 My research lies in the intersection of machine learning and differential geometry, such as geometric deep learning and matrix/vector manifolds. Currently, I co-supervise several students with [Rui Wang](https://ai.jiangnan.edu.cn/info/1081/2941.htm).
 
-I am always open for collaboration, such as doing geometric deep learning or applying differential geometry into your applications. If you are interested in collaboration, please drop me an email. 
+I am always open for collaboration. If you are interested in my research, please drop me an email. 
 
 I am building a GitHub repo, [Awesome-Riemannian-Deep-Learning](https://github.com/GitZH-Chen/Awesome-Riemannian-Deep-Learning), containing resources on deep learning over Riemannian spaces. 🚀
 
