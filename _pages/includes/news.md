@@ -8,7 +8,7 @@
   <li><strong>2025.03</strong>: Riemannian approach for skeleton-based action recognition accepted to IEEE TIM. Congrats Rui and Jiayao!</li>
   <li><strong>2025.02</strong>: BatchNorm for ill-conditioned SPD matrices accepted to CVPR 2025. First CVPR paper with Jiangnan Univ. as the first affiliation. 
   Congrats Rui and Shaocheng!</li>
-  <li><strong>2025.01</strong>: Two papers accepted to ICLR 2025: gyrogroup batchnorm (GyroBN) and high-order pooling.</li>
+  <li><strong>2025.01</strong>: Two papers accepted to ICLR 2025: gyrogroup batchnorm (GyroBN) and Analyzing high-order pooling.</li>
   <li><strong>2024.09</strong>: Riemannian classifier over general geometries (RMLR) accepted to NeurIPS 2024.</li>
   <li><strong>2024.08</strong>: Adaptive Riemannian metrics accepted to IEEE TIP.</li>
   <li><strong>2024.04</strong>: Grassmannian self-attention accepted to IJCAI 2024. Congrats Rui and Chen!</li>
