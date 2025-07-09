@@ -1,5 +1,5 @@
 # 🌟 News
-<div style="max-height: 200px; overflow-y: scroll; padding-right: 10px; border: 1px solid #ddd; background-color: #f9f9f9; padding: 10px;">
+<div style="max-height: 400px; overflow-y: scroll; padding-right: 10px; border: 1px solid #ddd; background-color: #f9f9f9; padding: 10px;">
 - *2025.07*: One paper on Riemannian BatchNorm via the Cholesky manifold was accepted by TNLLS. Congrats Rui!
 - *2025.04*: One paper on Riemannian attention was accepted to IJCAI 2025. Congrats Chen!
 - *2025.04*: Our CVPR25 and ICLR25 (on high-order pooling) papers was selected as posters to [VALSE 2025](https://valser.org/2025/#/poster).
