@@ -1,3 +1,5 @@
+<div style="max-height: 200px; overflow-y: scroll; padding-right: 10px; border: 1px solid #ddd; background-color: #f9f9f9; padding: 10px;">
+
 # 🌟 News
 - *2025.07*: One paper on Riemannian BatchNorm via the Cholesky manifold was accepted by TNLLS. Congrats Rui!
 - *2025.04*: One paper on Riemannian attention was accepted to IJCAI 2025. Congrats Chen!
@@ -15,3 +17,5 @@ It is one of the first CVPR papers with Jiangnan University as the first affilia
 
 
 <!-- - *2024.01*: 🔥 We release [AudioGPT](https://github.com/AIGC-Audio/AudioGPT) (⭐️6k+) -->
+
+</div>
