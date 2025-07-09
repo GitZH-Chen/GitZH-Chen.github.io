@@ -16,5 +16,4 @@
   <li><strong>2024.01</strong>: Lie group BatchNorm (LieBN) accepted to ICLR 2024.</li>
 </ul>
 
-
 </div>
