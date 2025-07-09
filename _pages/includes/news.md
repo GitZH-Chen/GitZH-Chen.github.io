@@ -15,7 +15,7 @@ It is one of the first CVPR papers with Jiangnan University as the first affilia
 - *2024.01*: 🔥 We release [AudioGPT](https://github.com/AIGC-Audio/AudioGPT) (⭐️6k+) -->
 
 # 🌟 News
-<div style="max-height: 300px; overflow-y: scroll; padding: 10px; background-color: transparent; border: none;">
+<div style="max-height: 400px; overflow-y: scroll; padding: 10px; background-color: transparent; border: none;">
 
 <ul>
   <li><strong>2025.07</strong>: Riemannian BatchNorm on Cholesky manifold accepted to TNLLS. Congrats Rui!</li>
