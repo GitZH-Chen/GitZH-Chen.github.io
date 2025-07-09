@@ -22,8 +22,7 @@ It is one of the first CVPR papers with Jiangnan University as the first affilia
   <li><strong>2025.04</strong>: Riemannian self-attention accepted to IJCAI 2025. Congrats Chen!</li>
   <li><strong>2025.04</strong>: CVPR25 & ICLR25 (high-order pooling) selected for <a href="https://valser.org/2025/#/poster">VALSE 2025</a>.</li>
   <li><strong>2025.03</strong>: Riemannian approach for skeleton-based action recognition accepted to IEEE TIM. Congrats Rui and Jiayao!</li>
-  <li><strong>2025.02</strong>: BatchNorm for ill-conditioned SPD matrices accepted to CVPR 2025 — first CVPR paper with Jiangnan Univ. as first affiliation. 
-  Congrats Rui and Shaocheng!</li>
+  <li><strong>2025.02</strong>: BatchNorm for ill-conditioned SPD matrices accepted to CVPR 2025 — first CVPR paper with Jiangnan Univ. as first affiliation. Congrats Rui and Shaocheng!</li>
   <li><strong>2025.01</strong>: Two papers to ICLR 2025: gyrogroup batchnorm (GyroBN) & high-order pooling.</li>
   <li><strong>2024.09</strong>: Riemannian classifier over general geometries (RMLR) accepted to NeurIPS 2024.</li>
   <li><strong>2024.08</strong>: Adaptive Riemannian metrics accepted to IEEE TIP.</li>
