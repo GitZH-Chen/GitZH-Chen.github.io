@@ -2,7 +2,7 @@
 <div style="max-height: 400px; overflow-y: scroll; padding: 10px; background-color: transparent; border: none;">
 
 <ul>
-  <li><strong>2025.07</strong>: Riemannian BatchNorm via the Cholesky geometry accepted to TNLLS. Congrats Rui!</li>
+  <li><strong>2025.07</strong>: Riemannian BatchNorm via the Cholesky geometry accepted to TNNLS. Congrats Rui!</li>
   <li><strong>2025.04</strong>: Riemannian self-attention accepted to IJCAI 2025. Congrats Chen!</li>
   <li><strong>2025.04</strong>: CVPR25 & ICLR25 (high-order pooling) selected for <a href="https://valser.org/2025/#/poster">VALSE 2025</a>.</li>
   <li><strong>2025.03</strong>: Riemannian approach for skeleton-based action recognition accepted to IEEE TIM. Congrats Rui and Jiayao!</li>
