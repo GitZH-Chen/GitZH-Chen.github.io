@@ -228,7 +228,7 @@
         tree(root);
 
         // 计算总宽度：树深度 × 横向间距（ 100 ）
-        const treeWidth = (root.height + 1) * 100;
+        const treeWidth = (root.height + 1) * 140;
         const offsetX = Math.max((width - treeWidth) / 2, 40);  // 保证最小留白为 40
 
         const g = svg.append("g").attr("transform", `translate(${offsetX}, 0)`)
@@ -240,6 +240,10 @@
 
         // Initial drawing
         update(root);
+        // 自动设置 SVG 高度（用于裁剪底部空白）
+        const maxY = d3.max(root.descendants(), d => d.x);
+        svg.attr("height", maxY + 60); // 预留一点 margin
+
 
         // Update function for collapsing/expanding
         function update(source) {
