@@ -1,7 +1,5 @@
 # 🧠 Research Overview 
 
-<html>
-
 <!-- <meta charset="UTF-8" />
 <link href="https://fonts.googleapis.com/css2?family=Lato:wght@200;300;400;600;700;900&display=swap"
     rel="stylesheet">  -->
@@ -152,6 +150,7 @@
     }
 </script>
 <script src="https://d3js.org/d3.v7.min.js"></script>
+
 <script>
     // Data for the tree diagram
     const treeData = {
@@ -211,12 +210,6 @@
             },
         ]
     };
-
-    // Set up SVG
-    // const svg = d3.select("#treeDiagram"),
-    //     width = +svg.attr("width"),
-    //     height = +svg.attr("height"),
-    //     g = svg.append("g").attr("transform", "translate(40,40)");
 
     const svg = d3.select("#treeDiagram"),
         width = +svg.attr("width"),
