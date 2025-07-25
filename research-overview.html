@@ -231,7 +231,7 @@
         const treeWidth = (root.height + 1) * 100;
         const offsetX = Math.max((width - treeWidth) / 2, 40);  // 保证最小留白为 40
 
-        const g = svg.append("g").attr("transform", `translate(${offsetX},40)`);
+        const g = svg.append("g").attr("transform", `translate(${offsetX}, 0)`)
 
         let i = 0; // Initialize a counter for node IDs
 
