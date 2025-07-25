@@ -1,7 +1,7 @@
 # 🧠 Research Overview 
 
 
-
+<svg id="treeDiagram" width="1000" height="600" overflow="auto"></svg>
 <script src="https://d3js.org/d3.v7.min.js"></script>
 <script>
     // Data for the tree diagram
