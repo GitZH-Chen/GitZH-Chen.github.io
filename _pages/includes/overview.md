@@ -1,9 +1,9 @@
 # 🧠 Research Overview 
-<!-- <p align="center">
+<p align="center">
   <img src="images/others/geometric_deep_learning.jpg" alt="Geometric Deep Learning Mindmap" width="100%">
-</p> -->
+</p>
 
-<div id="tree-container" style="width: 100%; overflow-x: auto;">
+<!-- <div id="tree-container" style="width: 100%; overflow-x: auto;">
   <svg id="treeDiagram" width="960" height="600"></svg>
 </div>
 
@@ -123,4 +123,4 @@ function click(event, d) {
   update(d);
 }
 </script>
-
+ -->
