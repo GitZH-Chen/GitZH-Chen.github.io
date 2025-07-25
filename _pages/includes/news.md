@@ -1,4 +1,4 @@
-# 🌟 News
+# 🔔 News
 <div style="max-height: 400px; overflow-y: scroll; padding: 10px; background-color: transparent; border: none;">
 
 <ul>
