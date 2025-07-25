@@ -228,7 +228,7 @@
         tree(root);
 
         // 计算总宽度：树深度 × 横向间距（120）
-        const treeWidth = (root.height + 1) * 120;
+        const treeWidth = (root.height + 1) * 140;
         const offsetX = Math.max((width - treeWidth) / 2, 40);  // 保证最小留白为 40
 
         const g = svg.append("g").attr("transform", `translate(${offsetX},40)`);
@@ -359,14 +359,6 @@
         root.x0 = root.x;
         root.y0 = root.y;
     </script>
-
-    <!-- 自动调整 iframe 高度的脚本 -->
-    <script>
-        window.onload = function() {
-            const height = document.body.scrollHeight;
-            window.parent.postMessage({ type: "resize", height: height }, "*");
-        };
-        </script>
 
 </body>
 
