@@ -1,6 +1,5 @@
 # 🧠 Research Overview 
 
-<!DOCTYPE html>
 <html>
 
 <head>
