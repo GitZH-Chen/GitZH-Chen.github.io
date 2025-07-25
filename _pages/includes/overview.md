@@ -1,8 +1,34 @@
 # 🧠 Research Overview 
 
 
-<svg id="treeDiagram" width="1000" height="600" overflow="auto"></svg>
+<!-- 样式设置 -->
+<style>
+  .link {
+    fill: none;
+    stroke: #aaa;
+    stroke-width: 2px;
+  }
+
+  .node circle {
+    fill: #fff;
+    stroke: #555;
+    stroke-width: 2px;
+  }
+
+  .node text {
+    font: 12px sans-serif;
+  }
+</style>
+
+<!-- 容器 + SVG 画布 -->
+<div style="width: 100%; overflow-x: auto;">
+  <svg id="treeDiagram" viewBox="0 0 1000 600" preserveAspectRatio="xMinYMin meet"></svg>
+</div>
+
+<!-- D3 脚本库 -->
 <script src="https://d3js.org/d3.v7.min.js"></script>
+
+<!-- 绘图脚本 -->
 <script>
     // Data for the tree diagram
     const treeData = {
