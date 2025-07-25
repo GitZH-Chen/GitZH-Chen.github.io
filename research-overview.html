@@ -227,7 +227,7 @@
         const tree = d3.tree().size([height - 50, width - 100]);
         tree(root);
 
-        // 计算总宽度：树深度 × 横向间距（120）
+        // 计算总宽度：树深度 × 横向间距（ 100 ）
         const treeWidth = (root.height + 1) * 100;
         const offsetX = Math.max((width - treeWidth) / 2, 40);  // 保证最小留白为 40
 
@@ -250,7 +250,7 @@
             const links = root.links();
 
             // Normalize for fixed-depth.
-            nodes.forEach(d => { d.y = d.depth * 120; }); // Adjust this value to control node spacing horizontally
+            nodes.forEach(d => { d.y = d.depth * 140; }); // Adjust this value to control node spacing horizontally
 
             // Update the nodes…
             const node = g.selectAll(".node")
