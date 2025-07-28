@@ -7,4 +7,4 @@ I am always open for collaboration. If you are interested in my research, please
 
 I am building a GitHub repo, [Awesome-Riemannian-Deep-Learning](https://github.com/GitZH-Chen/Awesome-Riemannian-Deep-Learning), containing resources on deep learning over Riemannian spaces. 🚀
 
-If you are a junior researcher, you might be interested in [AIPaperTutorial](https://github.com/GitZH-Chen/AIPaperTutorial). ✍️
+If you are a junior researcher, you might be interested in [AIPaperTutorial](https://github.com/GitZH-Chen/AIPaperTutorial) on paper writting ✍️.
