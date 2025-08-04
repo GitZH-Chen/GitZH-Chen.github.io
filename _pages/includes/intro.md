@@ -6,5 +6,7 @@ I also co-supervise several students with [Rui Wang](https://ai.jiangnan.edu.cn/
 I am always open for collaboration. If you are interested in my research, please drop me an email. 
 
 I am building a GitHub repo, [Awesome-Riemannian-Deep-Learning](https://github.com/GitZH-Chen/Awesome-Riemannian-Deep-Learning), containing resources on deep learning over Riemannian spaces. 🚀
+I am also a contributor to [geoopt](https://github.com/geoopt/geoopt), a popular Riemannian optimization library compatible with PyTorch.
+
 
 <!-- If you are a junior researcher, you might be interested in [AIPaperTutorial](https://github.com/GitZH-Chen/AIPaperTutorial) on paper writting ✍️. -->
