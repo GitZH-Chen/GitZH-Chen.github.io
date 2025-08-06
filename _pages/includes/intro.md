@@ -8,4 +8,4 @@ I am always open for collaboration. If you are interested in my research, please
 I am building a GitHub repo, [Awesome-Riemannian-Deep-Learning](https://github.com/GitZH-Chen/Awesome-Riemannian-Deep-Learning), containing resources on deep learning over Riemannian spaces. 🚀
 I am also a contributor to [geoopt](https://github.com/geoopt/geoopt), a popular Riemannian optimization library compatible with PyTorch.
 
-If you're new to writing AI papers, this resource might be helpful: [AIPaperTutorial](https://github.com/GitZH-Chen/AIPaperTutorial) ✍️.
+If you're new to writing AI papers, this repo might be helpful: [AIPaperTutorial](https://github.com/GitZH-Chen/AIPaperTutorial) ✍️.
