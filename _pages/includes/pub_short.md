@@ -1,7 +1,6 @@
 # 📝 Selected Publications 
 († denotes the corresponding author) 
 
-{% include detailed_pubs/2025-NeurIPS-GyroAtt.md %}
 {% include detailed_pubs/2025-ICLR25-GyroBN.md %}
 {% include detailed_pubs/2025-ICLR25-CovPooling.md %}
 {% include detailed_pubs/2024-NeurIPS-RMLR.md %}
@@ -17,6 +16,7 @@
 {% include pubs/Arxiv/2024-Arxiv-Cho_Metric.md %}
 
 **Conferences**
+{% include detailed_pubs/2025-NeurIPS-GyroAtt.md %}
 {% include pubs/Conferences/2025-CVPR25-GBWMBN.md %}
 {% include pubs/Conferences/2025-ICLR25-GyroBN.md %}
 {% include pubs/Conferences/2025-ICLR25-CovPooling.md %}
