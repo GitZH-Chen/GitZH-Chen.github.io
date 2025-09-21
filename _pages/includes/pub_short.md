@@ -30,5 +30,5 @@
 {% include pubs/Journals/2025-TNNLS-CBN.md %}
 {% include pubs/Journals/2025-TIM-STRN.md %}
 {% include pubs/Journals/2024-TIP-ALEM.md %}
-{% include pubs/Journals/2024-TNNLS-SPDDeepMetric.md %}
+<!-- {% include pubs/Journals/2024-TNNLS-SPDDeepMetric.md %} -->
 {% include pubs/Journals/2021-TBD-Hbrid.md %}
