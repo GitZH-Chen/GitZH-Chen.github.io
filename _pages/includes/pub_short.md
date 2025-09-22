@@ -14,6 +14,7 @@
 
 **Preprints**
 {% include pubs/Arxiv/2024-Arxiv-Cho_Metric.md %}
+{% include pubs/Arxiv/2025-Arxiv-GyroBN-Extension.md %}
 
 **Conferences**
 {% include pubs/Conferences/2025-NeurIPS-GyroAtt.md %}
