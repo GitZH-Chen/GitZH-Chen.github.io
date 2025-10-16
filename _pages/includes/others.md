@@ -7,7 +7,7 @@
 # 💬 Invited Talks
 - *2025.10*: Building Riemannian Deep Learning: Algebraic Approaches. PRCV 2025.
 - *2025.06*: Extending Normalization into Riemannian Manifolds. Jiangnan University.
-- *2025.03*: Riemannian Deep Learning: Normalization and Classification. University of Alberta. [[Slides](https://github.com/GitZH-Chen/GitZH-Chen.github.io/blob/main/assets/files/Talks-25-UAlberta-Riemannian-Deep-Learning.pdf)]
+- *2025.03*: Riemannian Deep Learning: Normalization and Classification. University of Alberta.
 - *2024.03*: Naïve Riemannian Geometry: A One Hour Tour. Jiangnan University (internal talk).
 
 # 📖 Courses
