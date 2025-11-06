@@ -1,4 +1,5 @@
 # 🎖 Honors and Awards
+- *2025.11*: Awarded 80,000 GPU hours by CINECA
 - *2025.07*: [ELSA Mobility Grant](https://elsa-ai.eu/phd-postdoc/) (3,000 EUR)
 - *2025.05*: [ELIAS Mobility Grant](https://elias-ai.eu/mobility-program/) (2,400 EUR)
 - *2024.06*: Awarded 80,000 GPU hours by CINECA under the ISCRA initiative
