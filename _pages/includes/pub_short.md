@@ -17,7 +17,8 @@
 {% include pubs/Arxiv/2025-Arxiv-GyroBN-Extension.md %}
 
 **Conferences**
-{% include pubs/Conferences/2025-NeurIPS-GyroAtt.md %}
+{% include pubs/Conferences/2025-AAAI26-WAH-MVC.md %}
+{% include pubs/Conferences/2025-NeurIPS25-GyroAtt.md %}
 {% include pubs/Conferences/2025-CVPR25-GBWMBN.md %}
 {% include pubs/Conferences/2025-ICLR25-GyroBN.md %}
 {% include pubs/Conferences/2025-ICLR25-CovPooling.md %}
