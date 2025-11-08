@@ -1,4 +1,4 @@
-- <span class="conf-badge">AAAI 2025</span>
+- <span class="conf-badge">AAAI 2025 (Oral)</span>
 Wasserstein-Aligned Hyperbolic Multi-View Clustering,
 Rui Wang, Yuting Jiang, Xiaoqing Luo, Xiao-Jun Wu, Nicu Sebe, **Ziheng Chen<sup>†</sup>**. 
 <!-- [[Code](https://github.com/GitZH-Chen/RMLR)] 
