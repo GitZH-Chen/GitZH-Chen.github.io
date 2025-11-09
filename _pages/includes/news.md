@@ -2,7 +2,7 @@
 <div style="max-height: 400px; overflow-y: scroll; padding: 10px; background-color: transparent; border: none;">
 
 <ul>
-  <li><strong>2025.11</strong>: Wasserstein Hyperbolic clustering accepted to AAAI 2026 for oral presentation. Congrats to Rui and Yuting!</li>
+  <li><strong>2025.11</strong>: Hyperbolic Wasserstein clustering accepted to AAAI 2026 for oral presentation. Congrats to Rui and Yuting!</li>
   <li><strong>2025.09</strong>: Riemannian attention by gyrovector spaces (GyroAtt) accepted to NeurIPS 2025. Congrats to Rui and Chen!</li>
   <li><strong>2025.07</strong>: Riemannian BatchNorm via the Cholesky geometry accepted in IEEE TNNLS. Congrats to Rui!</li>
   <li><strong>2025.04</strong>: Riemannian self-attention accepted to IJCAI 2025. Congrats to Chen!</li>
