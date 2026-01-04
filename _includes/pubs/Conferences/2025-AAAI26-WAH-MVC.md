@@ -1,5 +1,5 @@
 - <span class="conf-badge">AAAI 2025</span>
-Wasserstein-Aligned Hyperbolic Multi-View Clustering,
+[Wasserstein-Aligned Hyperbolic Multi-View Clustering](https://www.arxiv.org/abs/2512.09402),
 Rui Wang, Yuting Jiang, Xiaoqing Luo, Xiao-Jun Wu, Nicu Sebe, **Ziheng Chen<sup>†</sup>**. 
 <span style="color:#d32f2f"><strong>(Oral)</strong></span>
 [[Code](https://github.com/Yuting-jiang-jnu/WAH-MVC)] 
