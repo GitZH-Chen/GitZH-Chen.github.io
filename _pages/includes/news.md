@@ -3,7 +3,7 @@
 
 <ul>
   <!-- <li><strong>2026.01</strong>: Awarded a DAAD scholarship for a research stay at <a href="https://is.mpg.de/ei">MPI-IS Tübingen</a>.</li> -->
-  <li><strong>2025.11</strong>: Five papers accepted to ICLR 2026. Congrats to Xianglong, Shanglin, Zihan, and Chen!</li>
+  <li><strong>2026.01</strong>: Five papers accepted to ICLR 2026. Congrats to Xianglong, Shanglin, Zihan, and Chen!</li>
   <li><strong>2025.11</strong>: Hyperbolic Wasserstein clustering accepted to AAAI 2026 for oral presentation. Congrats to Rui and Yuting!</li>
   <li><strong>2025.09</strong>: Riemannian attention by gyrovector spaces (GyroAtt) accepted to NeurIPS 2025. Congrats to Rui and Chen!</li>
   <li><strong>2025.07</strong>: Riemannian BatchNorm via the Cholesky geometry accepted in IEEE TNNLS. Congrats to Rui!</li>
