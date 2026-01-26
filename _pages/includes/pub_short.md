@@ -13,7 +13,6 @@
 
 
 **Preprints**
-{% include pubs/Arxiv/2024-Arxiv-Cho_Metric.md %}
 {% include pubs/Arxiv/2025-Arxiv-GyroBN-Extension.md %}
 
 **Conferences**
