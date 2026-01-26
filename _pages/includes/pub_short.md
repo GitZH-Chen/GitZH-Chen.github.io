@@ -1,5 +1,5 @@
 # 📝 Selected Publications 
-(† denotes the corresponding author) 
+(† denotes the corresponding author; <sup>*</sup> denotes equal contribution) 
 
 {% include detailed_pubs/2025-ICLR25-GyroBN.md %}
 {% include detailed_pubs/2025-ICLR25-CovPooling.md %}
@@ -17,6 +17,11 @@
 {% include pubs/Arxiv/2025-Arxiv-GyroBN-Extension.md %}
 
 **Conferences**
+{% include pubs/Conferences/2026-ICLR26-CPG.md %}
+{% include pubs/Conferences/2026-ICLR26-HEEGNet.md %}
+{% include pubs/Conferences/2026-ICLR26-RHOP.md %}
+{% include pubs/Conferences/2026-ICLR26-PVNN.md %}
+{% include pubs/Conferences/2026-ICLR26-ILNN.md %}
 {% include pubs/Conferences/2025-AAAI26-WAH-MVC.md %}
 {% include pubs/Conferences/2025-NeurIPS25-GyroAtt.md %}
 {% include pubs/Conferences/2025-CVPR25-GBWMBN.md %}
