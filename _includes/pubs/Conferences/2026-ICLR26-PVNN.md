@@ -1,5 +1,5 @@
 - <span class="conf-badge">ICLR 2026</span>
-[Proper Velocity Neural Networks](https://openreview.net/forum?id=UDIYU1X3vC&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)),
+[Proper Velocity Neural Networks](https://openreview.net/forum?id=UDIYU1X3vC)),
 **Ziheng Chen<sup>*</sup>**, Zihan Su<sup>*</sup>, Bernhard Schölkopf, Nicu Sebe.
 [[Code](https://github.com/NickyoyoSu/PVNN)] 
 <!-- [[Slides](https://github.com/GitZH-Chen/PCM_BWCM/blob/main/ICLR26-PCM_BWCM-PPT.pdf)]
