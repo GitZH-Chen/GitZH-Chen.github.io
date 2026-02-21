@@ -16,6 +16,7 @@
 {% include pubs/Arxiv/2025-Arxiv-GyroBN-Extension.md %}
 
 **Conferences**
+{% include pubs/Conferences/2026-CVPR26-HBNN.md %}
 {% include pubs/Conferences/2026-ICLR26-PVNN.md %}
 {% include pubs/Conferences/2026-ICLR26-CPG.md %}
 {% include pubs/Conferences/2026-ICLR26-ILNN.md %}
