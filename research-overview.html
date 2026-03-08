@@ -166,10 +166,10 @@
                             "children": [
                                 { "name": "LieBN (ICLR24)", "url": "https://openreview.net/pdf?id=okYdj8Ysru" },
                                 {
-                                    "name": "GyroBN (ICLR25, Arxiv)",
-                                    "children": [
-                                        { "name": "ICLR25", "url": "https://openreview.net/forum?id=d1NWq4PjJW" },
-                                        { "name": "Arxiv", "url": "https://arxiv.org/abs/2509.07115" }
+                                    "name": "GyroBN",
+                                    "links": [
+                                        { "label": "ICLR25", "url": "https://openreview.net/forum?id=d1NWq4PjJW" },
+                                        { "label": "Arxiv", "url": "https://arxiv.org/abs/2509.07115" }
                                     ]
                                 },
                                 { "name": "GBWBN (CVPR25)", "url": "https://arxiv.org/abs/2504.00660" },
@@ -295,21 +295,53 @@
                 .attr("stroke", "#fff")
                 .attr("stroke-width", 1);
 
-            nodeEnter.append("text")
+            const textEnter = nodeEnter.append("text")
                 .attr("dy", 3)
                 .attr("x", d => d.children || d._children ? -8 : 8)
                 .attr("text-anchor", d => d.children || d._children ? "end" : "start")
                 .style("font-family", "'Lato', sans-serif")
                 .style("font-size", "12px")
-                .style("fill", d => d.data.url ? "#1e90ff" : "#000")
-                .text(d => d.data.name)
-                .style("fill-opacity", 1e-6)
-                .on("click", (event, d) => {
-                    if (d.data.url) {
-                        event.stopPropagation(); // Prevent node collapse/expand when clicking text link
-                        window.open(d.data.url, "_blank");
-                    }
-                });
+                .style("fill-opacity", 1e-6);
+
+            textEnter.each(function(d) {
+                const text = d3.select(this);
+                const links = d.data.links || [];
+
+                if (links.length > 0) {
+                    text.append("tspan")
+                        .style("fill", "#000")
+                        .text(`${d.data.name} (`);
+
+                    links.forEach((link, index) => {
+                        text.append("tspan")
+                            .style("fill", "#1e90ff")
+                            .style("cursor", "pointer")
+                            .text(link.label)
+                            .on("click", event => {
+                                event.stopPropagation();
+                                window.open(link.url, "_blank");
+                            });
+
+                        if (index < links.length - 1) {
+                            text.append("tspan")
+                                .style("fill", "#000")
+                                .text(", ");
+                        }
+                    });
+
+                    text.append("tspan")
+                        .style("fill", "#000")
+                        .text(")");
+                } else {
+                    text.style("fill", d.data.url ? "#1e90ff" : "#000")
+                        .text(d.data.name);
+                }
+            }).on("click", (event, d) => {
+                if (d.data.url) {
+                    event.stopPropagation(); // Prevent node collapse/expand when clicking text link
+                    window.open(d.data.url, "_blank");
+                }
+            });
 
             // Transition nodes to their new position.
             const nodeUpdate = nodeEnter.merge(node);
