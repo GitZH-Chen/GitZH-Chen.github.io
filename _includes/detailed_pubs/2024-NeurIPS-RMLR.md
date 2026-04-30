@@ -2,7 +2,7 @@
 <div class='paper-box-text' markdown="1">
 
 [RMLR: Extending Multinomial Logistic Regression into General Geometries](http://arxiv.org/abs/2409.19433) \\
-**Ziheng Chen**, Yue Song, Rui Wang, Xiaojun Wu, Nicu Sebe. 
+**Ziheng Chen**, Yue Song, Rui Wang, Xiao-Jun Wu, Nicu Sebe.
 [[Code](https://github.com/GitZH-Chen/RMLR)] 
 <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 

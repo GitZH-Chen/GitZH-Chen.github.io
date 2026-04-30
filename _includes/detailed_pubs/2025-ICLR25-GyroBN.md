@@ -8,7 +8,7 @@
     <div class='paper-box-text' markdown="1">
     
 [Gyrogroup Batch Normalization](https://openreview.net/forum?id=d1NWq4PjJW) \\
-**Ziheng Chen**, Yue Song, Xiaojun Wu, Nicu Sebe. 
+**Ziheng Chen**, Yue Song, Xiao-Jun Wu, Nicu Sebe.
 [[Code](https://github.com/GitZH-Chen/GyroBN)]
 - Proposes pseudo-reductive gyrogroups, a relaxed structure of gyrogroups, with complete theoretical analyses.   
 - Establishes the conditions for theoretical control over sample statistics in Riemannian batch normalization over gyrogroups, i.e., pseudo-reduction and gyroisometric gyrations. 

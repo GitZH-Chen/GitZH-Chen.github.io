@@ -2,7 +2,7 @@
 <div class='paper-box-text' markdown="1">
 
 [Riemannian Multinomial Logistics Regression for SPD Neural Networks](https://arxiv.org/abs/2305.11288) \\
-**Ziheng Chen**, Yue Song, Gaowen Liu, Ramana Rao Kompella, Xiaojun Wu, Nicu Sebe. 
+**Ziheng Chen**, Yue Song, Gaowen Liu, Ramana Rao Kompella, Xiao-Jun Wu, Nicu Sebe.
 [[Code](https://github.com/GitZH-Chen/SPDMLR)]
 <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
