@@ -2,6 +2,7 @@
 <div style="max-height: 400px; overflow-y: scroll; padding: 10px; background-color: transparent; border: none;">
 
 <ul>
+  <li><strong>2026.05</strong>: Riemannian GCN for skeleton-based two-person interaction recognition accepted to IJCAI 2026. Congrats to Rui and Zihao!</li>
   <li><strong>2026.04</strong>: Riemannian networks over correlation matrices accepted to ICML 2026.</li>
   <li><strong>2026.02</strong>: Hyperbolic Busemann neural networks accepted to CVPR 2026.</li>
   <li><strong>2026.01</strong>: Five papers accepted to ICLR 2026. Congrats to Zihan, Xianglong, Shanglin, and Chen!</li>
