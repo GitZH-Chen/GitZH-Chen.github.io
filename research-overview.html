@@ -96,7 +96,7 @@
 
 <body>
     <div style="width:1000px;margin: 0px auto;">
-                <svg id="treeDiagram" width="1000" height="600" overflow="auto"></svg>
+                <svg id="treeDiagram" width="1000" height="760" overflow="auto"></svg>
                 <div style="clear: both;"></div>
 
     <script>
@@ -243,13 +243,15 @@
         //     g = svg.append("g").attr("transform", "translate(40,40)");
 
         const svg = d3.select("#treeDiagram"),
-            width = +svg.attr("width"),
-            height = +svg.attr("height");
+            width = +svg.attr("width");
 
         const root = d3.hierarchy(treeData);
+        const verticalGap = 34;
+        const height = Math.max(760, root.leaves().length * verticalGap + 80);
+        svg.attr("height", height);
 
         // 先布置树布局（为了拿到 depth）
-        const tree = d3.tree().size([height - 50, width - 100]);
+        const tree = d3.tree().size([height - 80, width - 100]);
         tree(root);
 
         // 计算总宽度：树深度 × 横向间距（ 100 ）
