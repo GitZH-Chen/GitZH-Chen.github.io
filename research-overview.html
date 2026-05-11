@@ -246,7 +246,7 @@
             width = +svg.attr("width");
 
         const root = d3.hierarchy(treeData);
-        const verticalGap = 25; // Vertical gap between nodes
+        const verticalGap = 30; // Vertical gap between nodes
         const height = Math.max(600, root.leaves().length * verticalGap + 70);
         svg.attr("height", height);
 
