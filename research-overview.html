@@ -96,7 +96,7 @@
 
 <body>
     <div style="width:1000px;margin: 0px auto;">
-                <svg id="treeDiagram" width="1000" height="650" overflow="auto"></svg>
+                <svg id="treeDiagram" width="1000" height="600" overflow="auto"></svg>
                 <div style="clear: both;"></div>
 
     <script>
@@ -247,7 +247,7 @@
 
         const root = d3.hierarchy(treeData);
         const verticalGap = 25; // Vertical gap between nodes
-        const height = Math.max(650, root.leaves().length * verticalGap + 70);
+        const height = Math.max(600, root.leaves().length * verticalGap + 70);
         svg.attr("height", height);
 
         // 先布置树布局（为了拿到 depth）
