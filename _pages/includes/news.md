@@ -4,8 +4,8 @@
 <ul>
   <li><strong>2026.05</strong>: We are organizing <a href="https://mlss2026.is.tuebingen.mpg.de/">MLSS 2026</a> in T&uuml;bingen (Aug. 31-Sept. 11, 2026). Welcome to <a href="https://mlss2026.is.tuebingen.mpg.de/apply/">apply</a>!</li>
   <li><strong>2026.05</strong>: Riemannian GCN for skeleton-based two-person interaction recognition accepted to IJCAI 2026. Congrats to Rui and Zihao!</li>
-  <li><strong>2026.04</strong>: Riemannian networks over correlation matrices accepted to ICML 2026.</li>
   <li><strong>2026.04</strong>: Awarded 360,000 GPU hours through <a href="https://www.eurohpc-ju.europa.eu">EuroHPC</a>.</li>
+  <li><strong>2026.04</strong>: Riemannian networks over correlation matrices accepted to ICML 2026.</li>
   <li><strong>2026.02</strong>: Hyperbolic Busemann neural networks accepted to CVPR 2026.</li>
   <li><strong>2026.01</strong>: Five papers accepted to ICLR 2026. Congrats to Zihan, Xianglong, Shanglin, and Chen!</li>
   <li><strong>2026.01</strong>: Awarded the DAAD "Research Grants in Germany" scholarship, supporting a research stay at <a href="https://is.mpg.de/ei">MPI-IS Tübingen</a>.</li>
