@@ -1,5 +1,5 @@
 # 🎖 Honors and Awards
-- *2026*: Awarded [DAAD Research Grant in Germany](https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?origin=30&status=4&subjectGrps=&daad=&q=&page=1&detail=57742121#voraussetzungen) (13,844.33 EUR)
+- *2026*: Awarded [DAAD Research Grant in Germany](https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?origin=30&status=4&subjectGrps=&daad=&q=&page=1&detail=57742121#voraussetzungen) (13,844 EUR)
 - *2025*: [ELSA Mobility Grant](https://elsa-ai.eu/phd-postdoc/) (3,000 EUR)
 - *2025*: [ELIAS Mobility Grant](https://elias-ai.eu/mobility-program/) (2,400 EUR)
 - *2024-2026*: Awarded 442,500 GPU hours and 80 TB of storage through [CINECA ISCRA](https://www.hpc.cineca.it/hpc-access/access-cineca-resources/iscra-projects/) and [EuroHPC](https://www.eurohpc-ju.europa.eu)
