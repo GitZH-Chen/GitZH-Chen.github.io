@@ -2,4 +2,5 @@
 [Hyperbolic Busemann Neural Networks](https://arxiv.org/pdf/2602.18858),
 **Ziheng Chen**, Bernhard Schölkopf, Nicu Sebe.
 [[Code](https://github.com/GitZH-Chen/HBNN)]
+[[Slides](https://github.com/GitZH-Chen/HBNN/blob/main/PPT-CVPR26-HBNN.pdf)]
 [[Poster](https://github.com/GitZH-Chen/HBNN/blob/main/Poster-CVPR26-HBNN.pdf)]
