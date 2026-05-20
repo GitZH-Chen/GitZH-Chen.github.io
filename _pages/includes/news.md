@@ -2,6 +2,7 @@
 <div style="max-height: 400px; overflow-y: scroll; padding: 10px; background-color: transparent; border: none;">
 
 <ul>
+  <li><strong>2026.05</strong>: Bures–Wasserstein attention accepted to KDD 2026.</li>
   <li><strong>2026.05</strong>: We are organizing <a href="https://mlss2026.is.tuebingen.mpg.de/">MLSS 2026</a> in T&uuml;bingen (Aug. 31-Sept. 11, 2026). Welcome to <a href="https://mlss2026.is.tuebingen.mpg.de/apply/">apply</a>!</li>
   <li><strong>2026.05</strong>: Riemannian GCN for skeleton-based two-person interaction recognition accepted to IJCAI 2026. Congrats to Rui and Zihao!</li>
   <li><strong>2026.04</strong>: Riemannian networks over correlation matrices accepted to ICML 2026.</li>
