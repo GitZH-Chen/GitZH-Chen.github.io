@@ -24,4 +24,4 @@ To obtain basic foundations for my research, I have self-studied several math co
 - [Riemannian Geometry](https://space.bilibili.com/351260924/channel/collectiondetail?sid=936223) (2k+ viewers)
 - [Measure Theory](https://space.bilibili.com/351260924/lists/5216696?type=season)
 - [Statistical Optimal Transport](https://space.bilibili.com/351260924/lists/8167576?type=season)
-- [RKHS in Probability and Statistics](https://space.bilibili.com/351260924/lists/8311285?type=season)
+- [Reproducing Kernel Hilbert Spaces](https://space.bilibili.com/351260924/lists/8311285?type=season)
