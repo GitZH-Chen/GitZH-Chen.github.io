@@ -13,6 +13,7 @@
 
 
 **Preprints**
+{% include pubs/Arxiv/2026-Arxiv-LieBN.md %}
 {% include pubs/Arxiv/2025-Arxiv-GyroBN-Extension.md %}
 
 **Conferences**
