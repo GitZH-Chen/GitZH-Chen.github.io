@@ -7,7 +7,7 @@
     </div>
     <div class='paper-box-text' markdown="1">
     
-[Adaptive Log-Euclidean Metrics for SPD Matrix Learning](https://arxiv.org/abs/2303.15477) \\
+[Adaptive Log-Euclidean Metrics for SPD Matrix Learning](https://doi.org/10.1109/tip.2024.3451930) \\
 **Ziheng Chen**, Yue Song, Tianyang Xu, Zhiwu Huang, Xiao-Jun Wu, and Nicu Sebe. 
 [[Code](https://github.com/GitZH-Chen/ALEM)]
 <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>

@@ -1,7 +1,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/paper_images/CVPR24-SPDMLR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Riemannian Multinomial Logistics Regression for SPD Neural Networks](https://arxiv.org/abs/2305.11288) \\
+[Riemannian Multinomial Logistics Regression for SPD Neural Networks](https://openaccess.thecvf.com/content/CVPR2024/html/Chen_Riemannian_Multinomial_Logistics_Regression_for_SPD_Neural_Networks_CVPR_2024_paper.html) \\
 **Ziheng Chen**, Yue Song, Gaowen Liu, Ramana Rao Kompella, Xiao-Jun Wu, Nicu Sebe.
 [[Code](https://github.com/GitZH-Chen/SPDMLR)]
 <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
