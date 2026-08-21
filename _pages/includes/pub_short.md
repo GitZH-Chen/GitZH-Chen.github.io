@@ -18,6 +18,7 @@
 {% include pubs/Arxiv/2025-Arxiv-GyroBN-Extension.md %}
 
 **Conferences**
+{% include pubs/Conferences/2026-EMNLP26-PHDM.md %}
 {% include pubs/Conferences/2026-IJCAI26-RGCN.md %}
 {% include pubs/Conferences/2026-ICML26-CorNet.md %}
 {% include pubs/Conferences/2026-CVPR26-HBNN.md %}
@@ -38,6 +39,7 @@
 {% include pubs/Conferences/2023-AAAI-RieLocal.md %}
 
 **Journals**
+{% include pubs/Journals/2026-TMLR-RtSNE.md %}
 {% include pubs/Journals/2025-TNNLS-CBN.md %}
 {% include pubs/Journals/2025-TIM-STRN.md %}
 {% include pubs/Journals/2024-TIP-ALEM.md %}
