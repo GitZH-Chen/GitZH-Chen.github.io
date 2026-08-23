@@ -2,7 +2,8 @@
 <div style="max-height: 400px; overflow-y: scroll; padding: 10px; background-color: transparent; border: none;">
 
 <ul>
-  <li><strong>2026.08</strong>: Two papers accepted to TMLR and EMNLP 2026: matrix manifold t-SNE and manifold embedding. Congrats to Rui, Bin and Xianglong!</li>
+  <li><strong>2026.08</strong>: Manifold embedding accepted to EMNLP 2026 Main Conference (review score: <a href="https://stats.aclrollingreview.org/iterations/2026/may/">top 0.5%</a>). Congrats to Xianglong!</li>
+  <li><strong>2026.07</strong>: Riemannian t-SNE accepted to TMLR. Congrats to Rui and Bin!</li>
   <li><strong>2026.05</strong>: Bures–Wasserstein attention accepted to KDD 2026. Congrats to Shaocheng!</li>
   <li><strong>2026.05</strong>: We are organizing <a href="https://mlss2026.is.tuebingen.mpg.de/">MLSS 2026</a> in T&uuml;bingen (Aug. 31-Sept. 11, 2026). Welcome to <a href="https://mlss2026.is.tuebingen.mpg.de/apply/">apply</a>!</li>
   <li><strong>2026.05</strong>: Riemannian GCN for skeleton-based two-person interaction recognition accepted to IJCAI 2026. Congrats to Rui and Zihao!</li>
