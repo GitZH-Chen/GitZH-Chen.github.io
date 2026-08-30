@@ -5,7 +5,7 @@
 - *2012.09 - 2015.06*, Luqiao Middle School, Taizhou. -->
 
 # 💬 Invited Talks
-- *2026.08*: Invited tutorial — Riemannian Deep Learning: Foundations, Architectures, and Practice. [Machine Learning Summer School (MLSS) 2026](https://mlss2026.is.tuebingen.mpg.de/), T&uuml;bingen, Germany.
+- *2026.08*: Riemannian Deep Learning: Foundations, Architectures, and Practice. [Machine Learning Summer School (MLSS) 2026](https://mlss2026.is.tuebingen.mpg.de/), T&uuml;bingen, Germany.
 - *2026.07*: Hyperbolic Deep Learning: Spaces, Networks, and Applications. 2026 International Workshop on Applied Geometry and Related Topics (IWAG 2026).
 - *2025.10*: Building Riemannian Deep Learning: Algebraic Approaches. PRCV 2025.
 - *2025.06*: Extending Normalization into Riemannian Manifolds. Jiangnan University.
