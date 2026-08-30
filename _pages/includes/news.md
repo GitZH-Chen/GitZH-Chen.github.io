@@ -2,6 +2,7 @@
 <div style="max-height: 400px; overflow-y: scroll; padding: 10px; background-color: transparent; border: none;">
 
 <ul>
+  <li><strong>2026.08</strong>: I will give talks on deep learning over Riemannian spaces at the <a href="https://mlss2026.is.tuebingen.mpg.de/">Machine Learning Summer School (MLSS) 2026</a> and the <a href="https://www.ntu.edu.sg/spms/news-events/events/detail/2026/09/28/default-calendar/ias-frontiers-conference-on-geometry--dynamics--and-learning">IAS Frontiers Conference on Geometry, Dynamics, and Learning (GDL2026)</a>.</li>
   <li><strong>2026.08</strong>: Manifold embedding accepted to EMNLP 2026 (review score: <a href="https://stats.aclrollingreview.org/iterations/2026/may/">top 0.5%</a>). Congrats to Xianglong!</li>
   <li><strong>2026.07</strong>: Riemannian t-SNE accepted to TMLR. Congrats to Rui and Bin!</li>
   <li><strong>2026.05</strong>: Bures–Wasserstein attention accepted to KDD 2026. Congrats to Shaocheng!</li>
