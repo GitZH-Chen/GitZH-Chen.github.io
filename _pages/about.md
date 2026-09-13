@@ -17,8 +17,6 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# "天地有正气，杂然赋流形 -- 文天祥"
-
 {% include_relative includes/intro.md %}
 
 {% include_relative includes/news.md %}
