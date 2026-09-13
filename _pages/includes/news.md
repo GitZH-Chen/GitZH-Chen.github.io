@@ -37,19 +37,12 @@
   <li data-category="service"><span class="news-tag news-service">Service</span> <strong>2026.05</strong>: We are organizing <a href="https://mlss2026.is.tuebingen.mpg.de/">MLSS 2026</a> in T&uuml;bingen (Aug. 31-Sept. 11, 2026). Welcome to <a href="https://mlss2026.is.tuebingen.mpg.de/apply/">apply</a>!</li>
   <li data-category="pubs"><span class="news-tag news-pubs">Pubs</span> <strong>2026.05</strong>: Riemannian GCN for skeleton-based two-person interaction recognition accepted to IJCAI 2026. Congrats to Rui and Zihao!</li>
   <li data-category="service"><span class="news-tag news-service">Service</span> <strong>2026.05</strong>: Awarded the <a href="https://icml.cc/Conferences/2026/ProgramCommittee">ICML 2026 Gold Reviewer Award</a>.</li>
-  <li data-category="awards"><span class="news-tag news-awards">Awards</span> <strong>2026.05</strong>: Awarded 18,000 GPU hours through <a href="https://www.eurohpc-ju.europa.eu/">EuroHPC</a>.</li>
-  <li data-category="awards"><span class="news-tag news-awards">Awards</span> <strong>2026.05</strong>: Awarded 18,000 GPU hours through <a href="https://www.eurohpc-ju.europa.eu/">EuroHPC</a>.</li>
   <li data-category="pubs"><span class="news-tag news-pubs">Pubs</span> <strong>2026.04</strong>: Riemannian networks over correlation matrices accepted to ICML 2026.</li>
   <li data-category="awards"><span class="news-tag news-awards">Awards</span> <strong>2026.04</strong>: Awarded 360,000 GPU hours through <a href="https://www.eurohpc-ju.europa.eu/">EuroHPC</a>.</li>
-  <li data-category="awards"><span class="news-tag news-awards">Awards</span> <strong>2026.04</strong>: Awarded 8,500 GPU hours through <a href="https://www.hpc.cineca.it/hpc-access/access-cineca-resources/iscra-projects/">CINECA ISCRA</a>.</li>
-  <li data-category="awards"><span class="news-tag news-awards">Awards</span> <strong>2026.03</strong>: Awarded 80 TB of storage through <a href="https://www.hpc.cineca.it/hpc-access/access-cineca-resources/iscra-projects/">CINECA ISCRA</a>.</li>
-  <li data-category="awards"><span class="news-tag news-awards">Awards</span> <strong>2026.03</strong>: Awarded 18,000 GPU hours through <a href="https://www.eurohpc-ju.europa.eu/">EuroHPC</a>.</li>
   <li data-category="pubs"><span class="news-tag news-pubs">Pubs</span> <strong>2026.02</strong>: Hyperbolic Busemann neural networks accepted to CVPR 2026.</li>
-  <li data-category="awards"><span class="news-tag news-awards">Awards</span> <strong>2026.02</strong>: Awarded 18,000 GPU hours through <a href="https://www.eurohpc-ju.europa.eu/">EuroHPC</a>.</li>
   <li data-category="pubs"><span class="news-tag news-pubs">Pubs</span> <strong>2026.01</strong>: Five papers accepted to ICLR 2026. Congrats to Zihan, Xianglong, Shanglin, and Chen!</li>
   <li data-category="awards"><span class="news-tag news-awards">Awards</span> <strong>2026.01</strong>: Awarded the DAAD "Research Grants in Germany" scholarship, supporting a research stay at <a href="https://is.mpg.de/ei">MPI-IS Tübingen</a>.</li>
   <li data-category="pubs"><span class="news-tag news-pubs">Pubs</span> <strong>2025.11</strong>: Hyperbolic Wasserstein clustering accepted to AAAI 2026 for oral presentation. Congrats to Rui and Yuting!</li>
-  <li data-category="awards"><span class="news-tag news-awards">Awards</span> <strong>2025.11</strong>: Awarded 10,000 GPU hours through <a href="https://www.hpc.cineca.it/hpc-access/access-cineca-resources/iscra-projects/">CINECA ISCRA</a>.</li>
   <li data-category="talks"><span class="news-tag news-talks">Talks</span> <strong>2025.10</strong>: Invited tutorial on algebraic approaches to Riemannian deep learning at <a href="http://2025.prcv.cn/CN/Tutorial3/index.asp">PRCV 2025</a>.</li>
   <li data-category="pubs"><span class="news-tag news-pubs">Pubs</span> <strong>2025.09</strong>: Riemannian attention by gyrovector spaces (GyroAtt) accepted to NeurIPS 2025. Congrats to Rui and Chen!</li>
   <li data-category="pubs"><span class="news-tag news-pubs">Pubs</span> <strong>2025.07</strong>: Riemannian BatchNorm via the Cholesky geometry accepted in IEEE TNNLS. Congrats to Rui!</li>
@@ -64,7 +57,6 @@
   <li data-category="pubs"><span class="news-tag news-pubs">Pubs</span> <strong>2025.01</strong>: Two papers accepted to ICLR 2025: gyrogroup batchnorm (GyroBN) and Analyzing high-order pooling.</li>
   <li data-category="pubs"><span class="news-tag news-pubs">Pubs</span> <strong>2024.09</strong>: Riemannian classifier over general geometries (RMLR) accepted to NeurIPS 2024.</li>
   <li data-category="pubs"><span class="news-tag news-pubs">Pubs</span> <strong>2024.08</strong>: Adaptive Riemannian metrics accepted in IEEE TIP.</li>
-  <li data-category="awards"><span class="news-tag news-awards">Awards</span> <strong>2024.06</strong>: Awarded 10,000 GPU hours through <a href="https://www.hpc.cineca.it/hpc-access/access-cineca-resources/iscra-projects/">CINECA ISCRA</a>.</li>
   <li data-category="pubs"><span class="news-tag news-pubs">Pubs</span> <strong>2024.04</strong>: Grassmannian self-attention accepted to IJCAI 2024. Congrats to Rui and Chen!</li>
   <li data-category="pubs"><span class="news-tag news-pubs">Pubs</span> <strong>2024.03</strong>: CVPR24 paper selected for <a href="http://valser.org/2024/#/poster">VALSE 2024</a>.</li>
   <li data-category="talks"><span class="news-tag news-talks">Talks</span> <strong>2024.03</strong>: Internal talk on Riemannian geometry at Jiangnan University.</li>
