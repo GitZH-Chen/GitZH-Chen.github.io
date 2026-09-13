@@ -5,9 +5,10 @@
 - *2012.09 - 2015.06*, Luqiao Middle School, Taizhou. -->
 
 # 💬 Invited Talks
+- *2026.09*: Deep learning over Riemannian spaces. [IAS Frontiers Conference on Geometry, Dynamics, and Learning (GDL2026)](https://www.ntu.edu.sg/spms/news-events/events/detail/2026/09/28/default-calendar/ias-frontiers-conference-on-geometry--dynamics--and-learning), Singapore.
 - *2026.08*: Riemannian Deep Learning: Foundations, Architectures, and Practice. [Machine Learning Summer School (MLSS) 2026](https://mlss2026.is.tuebingen.mpg.de/), T&uuml;bingen, Germany. [[Code](https://github.com/GitZH-Chen/MLSS-RDL-Tutorial)]
-- *2026.07*: Hyperbolic Deep Learning: Spaces, Networks, and Applications. 2026 International Workshop on Applied Geometry and Related Topics (IWAG 2026).
-- *2025.10*: Building Riemannian Deep Learning: Algebraic Approaches. PRCV 2025.
+- *2026.07*: Hyperbolic Deep Learning: Spaces, Networks, and Applications. [2026 International Workshop on Applied Geometry and Related Topics (IWAG 2026)](https://workshopagrt.github.io/conference/2026/).
+- *2025.10*: Building Riemannian Deep Learning: Algebraic Approaches. [PRCV 2025](http://2025.prcv.cn/CN/Tutorial3/index.asp).
 - *2025.06*: Extending Normalization into Riemannian Manifolds. Jiangnan University.
 - *2025.03*: Riemannian Deep Learning: Normalization and Classification. University of Alberta.
 - *2024.03*: Naïve Riemannian Geometry: A One Hour Tour. Jiangnan University (internal talk).

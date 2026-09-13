@@ -1,5 +1,5 @@
 # 🎖 Honors and Awards
-- *2026*: ICML 2026 Gold Reviewer.
+- *2026*: [ICML 2026 Gold Reviewer](https://icml.cc/Conferences/2026/ProgramCommittee).
 - *2026*: Awarded an [ELIZA PhD Mobility Scholarship](https://www.eliza.school/)
 - *2026*: Awarded a [DAAD Research Grant in Germany](https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?origin=30&status=4&subjectGrps=&daad=&q=&page=1&detail=57742121#voraussetzungen)
 - *2025*: [ELSA Mobility Grant](https://elsa-ai.eu/phd-postdoc/) (3,000 EUR)
