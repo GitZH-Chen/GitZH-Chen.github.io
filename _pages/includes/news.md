@@ -36,7 +36,7 @@
   <li data-category="pubs"><span class="news-tag news-pubs">Pubs</span> <strong>2026.05</strong>: Bures–Wasserstein attention accepted to KDD 2026. Congrats to Shaocheng!</li>
   <li data-category="service"><span class="news-tag news-service">Service</span> <strong>2026.05</strong>: We are organizing <a href="https://mlss2026.is.tuebingen.mpg.de/">MLSS 2026</a> in T&uuml;bingen (Aug. 31-Sept. 11, 2026). Welcome to <a href="https://mlss2026.is.tuebingen.mpg.de/apply/">apply</a>!</li>
   <li data-category="pubs"><span class="news-tag news-pubs">Pubs</span> <strong>2026.05</strong>: Riemannian GCN for skeleton-based two-person interaction recognition accepted to IJCAI 2026. Congrats to Rui and Zihao!</li>
-  <li data-category="awards"><span class="news-tag news-awards">Awards</span> <strong>2026.05</strong>: Awarded the <a href="https://icml.cc/Conferences/2026/ProgramCommittee">ICML 2026 Gold Reviewer Award</a>.</li>
+  <li data-category="service"><span class="news-tag news-service">Service</span> <strong>2026.05</strong>: Awarded the <a href="https://icml.cc/Conferences/2026/ProgramCommittee">ICML 2026 Gold Reviewer Award</a>.</li>
   <li data-category="awards"><span class="news-tag news-awards">Awards</span> <strong>2026.05</strong>: Awarded 18,000 GPU hours through <a href="https://www.eurohpc-ju.europa.eu/">EuroHPC</a>.</li>
   <li data-category="awards"><span class="news-tag news-awards">Awards</span> <strong>2026.05</strong>: Awarded 18,000 GPU hours through <a href="https://www.eurohpc-ju.europa.eu/">EuroHPC</a>.</li>
   <li data-category="pubs"><span class="news-tag news-pubs">Pubs</span> <strong>2026.04</strong>: Riemannian networks over correlation matrices accepted to ICML 2026.</li>

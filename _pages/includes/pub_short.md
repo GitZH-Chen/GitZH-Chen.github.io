@@ -12,6 +12,8 @@
 
 
 
+For a complete list of publications, please visit my [Google Scholar](https://scholar.google.com/citations?user=47Y-sn4AAAAJ&hl=en).
+
 **Preprints**
 {% include pubs/Arxiv/2026-Arxiv-RDL-Thesis.md %}
 {% include pubs/Arxiv/2026-Arxiv-LieBN.md %}
