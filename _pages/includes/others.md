@@ -28,3 +28,4 @@ To obtain basic foundations for my research, I have self-studied several math co
 - [Measure Theory](https://space.bilibili.com/351260924/lists/5216696?type=season)
 - [Statistical Optimal Transport](https://space.bilibili.com/351260924/lists/8167576?type=season) (1k+ viewers)
 - [Reproducing Kernel Hilbert Spaces](https://space.bilibili.com/351260924/lists/8311285?type=season) (1k+ viewers)
+- [Lectures on Optimal Transport](https://space.bilibili.com/351260924/lists/9068875?type=season)
