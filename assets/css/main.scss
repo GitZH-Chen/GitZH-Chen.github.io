@@ -60,6 +60,25 @@
             box-shadow: 3px 3px 6px #888;
             object-fit: cover;
         }
+
+        .paper-image-frame {
+            width: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background: #fff;
+            box-shadow: 3px 3px 6px #888;
+
+            img {
+                width: auto;
+                height: auto;
+                max-width: 100%;
+                max-height: 100%;
+                margin: 0 auto;
+                object-fit: contain;
+                box-shadow: none;
+            }
+        }
     }
     
     .paper-box-text{
@@ -146,4 +165,3 @@ h1:before, .anchor:before {
     text-align: center; /* Center the text */
     vertical-align: middle; /* Align the badge with text */
 }
-

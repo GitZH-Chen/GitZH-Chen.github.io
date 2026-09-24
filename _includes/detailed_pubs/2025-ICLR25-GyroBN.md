@@ -12,8 +12,7 @@
 [[Code](https://github.com/GitZH-Chen/GyroBN)]
 - Proposes pseudo-reductive gyrogroups, a relaxed structure of gyrogroups, with complete theoretical analyses.   
 - Establishes the conditions for theoretical control over sample statistics in Riemannian batch normalization over gyrogroups, i.e., pseudo-reduction and gyroisometric gyrations. 
-- Introduces a GyroBN framework for Riemannian Batch Normalization over gyrogroups, applicable to various geometries.  
-- Manifests GyroBN on the Grassmannian and hyperbolic spaces.
+- Introduces GyroBN and instantiates it on Grassmannian and hyperbolic spaces.
 
 </div>
 </div>
