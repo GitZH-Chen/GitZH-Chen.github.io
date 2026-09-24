@@ -20,6 +20,9 @@ For a complete list of publications, please visit my [Google Scholar](https://sc
 {% include pubs/Arxiv/2025-Arxiv-GyroBN-Extension.md %}
 
 **Conferences**
+{% include pubs/Conferences/2026-NeurIPS26-BTL.md %}
+{% include pubs/Conferences/2026-NeurIPS26-PVFormer.md %}
+{% include pubs/Conferences/2026-NeurIPS26-UMLR.md %}
 {% include pubs/Conferences/2026-EMNLP26-PHDM.md %}
 {% include pubs/Conferences/2026-IJCAI26-RGCN.md %}
 {% include pubs/Conferences/2026-ICML26-CorNet.md %}
