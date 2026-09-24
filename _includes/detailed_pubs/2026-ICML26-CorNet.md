@@ -2,7 +2,7 @@
     <div class='paper-box-image' style="display: flex; justify-content: center; align-items: center;">
         <div style="width: 100%;">
             <div class="badge">ICML 2026</div>
-            <div class="paper-image-frame" style="height: 210px;">
+            <div class="paper-image-frame" style="height: 190px;">
                 <img src='images/paper_images/ICML26-CorNet.png' alt="Correlation matrices embedded in the SPD manifold">
             </div>
         </div>
