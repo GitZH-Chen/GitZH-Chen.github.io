@@ -173,7 +173,7 @@ h1:before, .anchor:before {
 
     ul {
         list-style: none;
-        padding-left: 2.4em;
+        padding-left: 3.7em;
     }
 
     ul > li {
@@ -183,8 +183,14 @@ h1:before, .anchor:before {
 
     ul > li::before {
         position: absolute;
-        right: calc(100% + 0.45em);
+        left: -3.7em;
+        width: 3.1em;
+        box-sizing: border-box;
+        text-align: right;
+        padding-right: 0.15em;
         font-weight: 600;
+        font-variant-numeric: tabular-nums;
+        color: #4f5965;
         white-space: nowrap;
     }
 }
