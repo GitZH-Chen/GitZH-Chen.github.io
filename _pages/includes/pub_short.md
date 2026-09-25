@@ -18,10 +18,16 @@
 
 For a complete list of publications, please visit my [Google Scholar](https://scholar.google.com/citations?user=47Y-sn4AAAAJ&hl=en).
 
+<div class="publication-numbering publication-numbering--preprints" markdown="1">
+
 **Preprints**
 {% comment %}{% include pubs/Arxiv/2026-Arxiv-RDL-Thesis.md %}{% endcomment %}
 {% include pubs/Arxiv/2026-Arxiv-LieBN.md %}
 {% include pubs/Arxiv/2025-Arxiv-GyroBN-Extension.md %}
+
+</div>
+
+<div class="publication-numbering publication-numbering--published" markdown="1">
 
 **Conferences**
 {% include pubs/Conferences/2026-NeurIPS26-BTL.md %}
@@ -54,3 +60,5 @@ For a complete list of publications, please visit my [Google Scholar](https://sc
 {% include pubs/Journals/2024-TIP-ALEM.md %}
 <!-- {% include pubs/Journals/2024-TNNLS-SPDDeepMetric.md %} -->
 {% include pubs/Journals/2021-TBD-Hbrid.md %}
+
+</div>

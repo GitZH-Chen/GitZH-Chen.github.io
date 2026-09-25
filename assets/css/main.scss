@@ -165,3 +165,34 @@ h1:before, .anchor:before {
     text-align: center; /* Center the text */
     vertical-align: middle; /* Align the badge with text */
 }
+
+/* Publication numbering: preprints use [P1], while conferences and journals
+   share one continuous newest-first sequence. */
+.publication-numbering {
+    counter-reset: publication-item;
+
+    ul {
+        list-style: none;
+        padding-left: 2.4em;
+    }
+
+    ul > li {
+        counter-increment: publication-item;
+        position: relative;
+    }
+
+    ul > li::before {
+        position: absolute;
+        right: calc(100% + 0.45em);
+        font-weight: 600;
+        white-space: nowrap;
+    }
+}
+
+.publication-numbering--preprints ul > li::before {
+    content: "[P" counter(publication-item) "]";
+}
+
+.publication-numbering--published ul > li::before {
+    content: "[" counter(publication-item) "]";
+}
