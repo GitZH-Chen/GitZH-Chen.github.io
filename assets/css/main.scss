@@ -41,6 +41,7 @@
 @import "print";
 
 .paper-box {
+    container-type: inline-size;
     display: flex;
     justify-content: left;
     align-items: center;
@@ -54,7 +55,8 @@
         justify-content: center;
         display: flex;
         width: 100%;
-        order: 2;
+        order: 1;
+        margin-bottom: 1.25em;
         img {
             max-width: 400px;
             box-shadow: 3px 3px 6px #888;
@@ -82,28 +84,30 @@
     }
     
     .paper-box-text{
+        width: 100%;
         max-width: 100%;
-        order: 1;
+        order: 2;
     }
     
-    @include breakpoint($medium) {
-        .paper-box-image{
-            justify-content: left;
-            min-width: 200px;
-            max-width: 40%;
-            order: 1;
-        }
-        
-        .paper-box-text{
-            justify-content: left;
-            padding-left: 2em;
-            max-width: 60%;
-            order: 2;
-        }
+}
 
+@container (min-width: 760px) {
+    .paper-box .paper-box-image{
+        justify-content: left;
+        width: 40%;
+        min-width: 200px;
+        max-width: 40%;
+        margin-bottom: 0;
+        box-sizing: border-box;
     }
 
-
+    .paper-box .paper-box-text{
+        justify-content: left;
+        width: 60%;
+        max-width: 60%;
+        padding-left: 2em;
+        box-sizing: border-box;
+    }
 }
 
 $scroll_offset : 2em;
