@@ -9,6 +9,7 @@
 
 [Building Transformation Layers for Riemannian Neural Networks](https://arxiv.org/abs/2609.35436) \\
 **Ziheng Chen**.
+[[Code](https://github.com/GitZH-Chen/RieTrans)]
 - Introduces a principled generalization of fully connected and convolutional layers to Riemannian spaces.
 - Instantiates the framework on three hyperbolic models, five SPD geometries, and two Grassmannian perspectives.
 - Validates the framework on benchmark tasks across hyperbolic, SPD, and Grassmannian manifolds.
