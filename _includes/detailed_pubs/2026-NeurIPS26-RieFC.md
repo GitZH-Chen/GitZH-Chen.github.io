@@ -2,7 +2,7 @@
     <div class='paper-box-image' style="display: flex; justify-content: center; align-items: center;">
         <div>
             <div class="badge">NeurIPS 2026</div>
-            <img src='images/paper_images/NeurIPS26-RieFC.png' alt="RieFC theorem" width="100%">
+            <img src='images/paper_images/NeurIPS26-RieFC.png' alt="RieTrans theorem" width="100%">
         </div>
     </div>
     <div class='paper-box-text' markdown="1">
