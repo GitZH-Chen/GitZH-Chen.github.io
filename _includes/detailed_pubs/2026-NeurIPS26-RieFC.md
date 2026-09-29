@@ -7,7 +7,7 @@
     </div>
     <div class='paper-box-text' markdown="1">
 
-Building Transformation Layers for Riemannian Neural Networks \\
+[Building Transformation Layers for Riemannian Neural Networks](https://arxiv.org/abs/2609.35436) \\
 **Ziheng Chen**.
 - Introduces a principled generalization of fully connected and convolutional layers to Riemannian spaces.
 - Instantiates the framework on three hyperbolic models, five SPD geometries, and two Grassmannian perspectives.
