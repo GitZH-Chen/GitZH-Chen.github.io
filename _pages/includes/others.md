@@ -18,7 +18,7 @@ To build the mathematical foundations for my research, I have self-studied sever
 - Mathematical Analysis I, II, III, Real Analysis, Complex Analysis, Functional Analysis;
 - Advanced Algebra I, II, Abstract Algebra I;
 - Topology, Differential Geometry, Differential Manifolds, Riemannian Geometry, Semi-Riemannian Geometry;
-- Differential Equations, Convex Optimization, Numerical Optimization...
+- Differential Equations, Convex Optimization, Numerical Optimization
 - Measure Theory, Statistical Optimal Transport, Optimal Transport, Reproducing Kernel Hilbert Spaces.
 
 # 💻 Personal Channels
