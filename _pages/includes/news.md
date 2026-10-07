@@ -32,7 +32,7 @@
   <li data-category="talks"><span class="news-tag news-talks">Talks</span> <strong>2026.08</strong>: Invited tutorial on deep learning over Riemannian spaces at <a href="https://mlss2026.is.tuebingen.mpg.de/">MLSS 2026</a>.</li>
   <li data-category="pubs"><span class="news-tag news-pubs">Pubs</span> <strong>2026.07</strong>: Riemannian t-SNE accepted to TMLR. Congrats to Rui and Bin!</li>
   <li data-category="talks"><span class="news-tag news-talks">Talks</span> <strong>2026.07</strong>: Invited talk on hyperbolic deep learning at <a href="https://workshopagrt.github.io/conference/2026/">IWAG 2026</a>.</li>
-  <li data-category="awards"><span class="news-tag news-awards">Awards</span> <strong>2026.07</strong>: Awarded an <a href="https://www.eliza.school/">ELIZA PhD Mobility Scholarship</a> (3,000 EUR).</li>
+  <li data-category="awards"><span class="news-tag news-awards">Awards</span> <strong>2026.07</strong>: Awarded an <a href="https://www.eliza.school/">ELIZA PhD Mobility Scholarship</a> (3,000 EUR, Oct–Nov 2026).</li>
   <li data-category="awards"><span class="news-tag news-awards">Awards</span> <strong>2026.06</strong>: Awarded 190,000 GPU hours through <a href="https://www.hpc.cineca.it/hpc-access/access-cineca-resources/iscra-projects/">CINECA ISCRA</a>.</li>
   <li data-category="pubs"><span class="news-tag news-pubs">Pubs</span> <strong>2026.05</strong>: Bures–Wasserstein attention accepted to KDD 2026. Congrats to Shaocheng!</li>
   <li data-category="service"><span class="news-tag news-service">Service</span> <strong>2026.05</strong>: We are organizing <a href="https://mlss2026.is.tuebingen.mpg.de/">MLSS 2026</a> in T&uuml;bingen (Aug. 31-Sept. 11, 2026). Welcome to <a href="https://mlss2026.is.tuebingen.mpg.de/apply/">apply</a>!</li>
