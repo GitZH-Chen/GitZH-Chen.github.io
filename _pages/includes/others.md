@@ -14,11 +14,12 @@
 - *2024.03*: Naïve Riemannian Geometry: A One Hour Tour. Jiangnan University (internal talk).
 
 # 📖 Courses
-To obtain basic foundations for my research, I have self-studied several math courses, most of which were done during my master studies:
+To build the mathematical foundations for my research, I have self-studied several mathematics courses, primarily during my master's studies and my research visit to MPI-IS:
 - Mathematical Analysis I, II, III, Real Analysis, Complex Analysis, Functional Analysis;
 - Advanced Algebra I, II, Abstract Algebra I;
-- Topology, Differential Geometry, Differential Manifolds, Riemannian Geometry;
+- Topology, Differential Geometry, Differential Manifolds, Riemannian Geometry, Semi-Riemannian Geometry;
 - Differential Equations, Convex Optimization, Numerical Optimization...
+- Measure Theory, Statistical Optimal Transport, Optimal Transport, Reproducing Kernel Hilbert Spaces.
 
 # 💻 Personal Channels
 - [Differential Equations](https://space.bilibili.com/351260924/channel/collectiondetail?sid=1171872) (1k+ viewers)

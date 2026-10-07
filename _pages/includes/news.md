@@ -42,7 +42,7 @@
   <li data-category="awards"><span class="news-tag news-awards">Awards</span> <strong>2026.04</strong>: Awarded 360,000 GPU hours through <a href="https://www.eurohpc-ju.europa.eu/">EuroHPC</a>.</li>
   <li data-category="pubs"><span class="news-tag news-pubs">Pubs</span> <strong>2026.02</strong>: Hyperbolic Busemann neural networks accepted to CVPR 2026.</li>
   <li data-category="pubs"><span class="news-tag news-pubs">Pubs</span> <strong>2026.01</strong>: Five papers accepted to ICLR 2026. Congrats to Zihan, Xianglong, Shanglin, and Chen!</li>
-  <li data-category="awards"><span class="news-tag news-awards">Awards</span> <strong>2026.01</strong>: Awarded the DAAD "Research Grants in Germany" scholarship, supporting a research stay at <a href="https://is.mpg.de/ei">MPI-IS Tübingen</a>.</li>
+  <li data-category="awards"><span class="news-tag news-awards">Awards</span> <strong>2026.01</strong>: Awarded the DAAD "Research Grants in Germany" scholarship (13,898 EUR, Feb–Sep 2026), supporting a research stay at <a href="https://is.mpg.de/ei">MPI-IS Tübingen</a>.</li>
   <li data-category="pubs"><span class="news-tag news-pubs">Pubs</span> <strong>2025.11</strong>: Hyperbolic Wasserstein clustering accepted to AAAI 2026 for oral presentation. Congrats to Rui and Yuting!</li>
   <li data-category="talks"><span class="news-tag news-talks">Talks</span> <strong>2025.10</strong>: Invited tutorial on algebraic approaches to Riemannian deep learning at <a href="http://2025.prcv.cn/CN/Tutorial3/index.asp">PRCV 2025</a>.</li>
   <li data-category="pubs"><span class="news-tag news-pubs">Pubs</span> <strong>2025.09</strong>: Riemannian attention by gyrovector spaces (GyroAtt) accepted to NeurIPS 2025. Congrats to Rui and Chen!</li>

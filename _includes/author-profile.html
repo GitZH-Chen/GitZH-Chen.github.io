@@ -22,6 +22,12 @@
       {% if author.location %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}
+      {% if author.visiting_institution %}
+        <li><div style="white-space: normal; margin-top: 1em;">{{ author.visiting_institution }}</div></li>
+      {% endif %}
+      {% if author.visiting_location %}
+        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.visiting_location }}</li>
+      {% endif %}
       {% if author.employer %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
       {% endif %}
