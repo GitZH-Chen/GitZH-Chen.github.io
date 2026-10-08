@@ -14,7 +14,7 @@
 - *2024.03*: Naïve Riemannian Geometry: A One Hour Tour. Jiangnan University (internal talk).
 
 # 📖 Courses
-To build the mathematical foundations for my research, I have self-studied several mathematics courses, primarily during my master's studies and my research visit to MPI-IS:
+To build the mathematical foundations for my research, I have self-studied several mathematics courses, during my master's, PhD, and MPI-IS visit:
 - Mathematical Analysis I, II, III, Real Analysis, Complex Analysis, Functional Analysis;
 - Advanced Algebra I, II, Abstract Algebra I;
 - Topology, Differential Geometry, Differential Manifolds, Riemannian Geometry, Semi-Riemannian Geometry;
