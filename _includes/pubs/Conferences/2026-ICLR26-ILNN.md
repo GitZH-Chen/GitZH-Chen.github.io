@@ -2,4 +2,5 @@
 [Intrinsic Lorentz Neural Network](https://openreview.net/forum?id=NNnkLi1ALt),
 Xianglong Shi<sup>*</sup>, **Ziheng Chen<sup>†,*</sup>**, Yunhan Jiang, Nicu Sebe.
 [[Code](https://github.com/Longchentong/ILNN)]
+[[Geoopt](https://github.com/geoopt/geoopt)]
 
