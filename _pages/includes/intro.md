@@ -5,4 +5,4 @@ Before my Ph.D. studies, I received a B.A. degree in logistics management from S
 My research lies in the intersection of machine learning and differential geometry, such as deep learning over Riemannian manifolds. 
 
 I am building a GitHub repo, [Awesome-Riemannian-Deep-Learning](https://github.com/GitZH-Chen/Awesome-Riemannian-Deep-Learning), containing resources on deep learning over Riemannian spaces. 🚀
-I am also a contributor to [geoopt](https://github.com/geoopt/geoopt), a popular Riemannian optimization library compatible with PyTorch.
+I am also a contributor to [Geoopt](https://github.com/geoopt/geoopt), a popular Riemannian optimization library compatible with PyTorch.
