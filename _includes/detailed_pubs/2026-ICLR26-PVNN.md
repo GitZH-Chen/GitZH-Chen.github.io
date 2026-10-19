@@ -11,7 +11,7 @@
 
 [Proper Velocity Neural Networks](https://openreview.net/forum?id=UDIYU1X3vC) \\
 **Ziheng Chen**<sup>*</sup>, Zihan Su<sup>*</sup>, Bernhard Schölkopf, Nicu Sebe.
-[[Code](https://github.com/NickyoyoSu/PVNN)] [[Poster](https://github.com/NickyoyoSu/PVNN/blob/main/ICLR26-PVNN-Poster.pdf)]
+[[Code](https://github.com/NickyoyoSu/PVNN)] [[Poster](https://github.com/NickyoyoSu/PVNN/blob/main/assets/ICLR26-PVNN-Poster.pdf)]
 - Establishes the complete Riemannian geometric toolkit of the proper velocity manifold with closed-form operators.
 - Develops fundamental building blocks in proper velocity space, including MLR, fully connected, convolutional, activation, and batch normalization layers.
 - Validates the stability and effectiveness of PVNNs on numerical stability, image classification, graph node classification, and genomic sequence learning.
