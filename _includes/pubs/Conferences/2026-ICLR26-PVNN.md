@@ -4,5 +4,6 @@
 [[Code](https://github.com/NickyoyoSu/PVNN)] 
 [[Poster](https://github.com/NickyoyoSu/PVNN/blob/main/assets/ICLR26-PVNN-Poster.pdf)]
 [[JAX (Hyperbolix)](https://github.com/timoklein/hyperbolix)]
+[[Geoopt](https://github.com/geoopt/geoopt)]
 <!-- [[Slides]()] -->
 <!-- [[Video](https://neurips.cc/virtual/2024/poster/93848)] -->
