@@ -7,7 +7,7 @@
     </div>
     <div class='paper-box-text' markdown="1">
 
-[Building Transformation Layers for Riemannian Neural Networks](https://arxiv.org/abs/2609.35436) \\
+[Building Transformation Layers for Riemannian Neural Networks](https://neurips.cc/virtual/2026/poster/151412) \\
 **Ziheng Chen**.
 [[Code](https://github.com/GitZH-Chen/RieTrans)]
 - Introduces a principled generalization of fully connected and convolutional layers to Riemannian spaces.
