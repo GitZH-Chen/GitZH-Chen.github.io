@@ -26,8 +26,8 @@
     <button class="news-filter" type="button" data-filter="service" aria-pressed="false" aria-controls="news-list">Service</button>
   </div>
   <ul class="news-list" id="news-list">
-  <li data-category="pubs"><span class="news-tag news-pubs">Pubs</span> <strong>2026.11</strong>: GeoResNet accepted to KDD 2027 (AI4Sciences Track) as an oral presentation. Congrats to Rui and Jianhang!</li>
-  <li data-category="pubs"><span class="news-tag news-pubs">Pubs</span> <strong>2026.09</strong>: Manifold embedding accepted to EMNLP 2026 as an oral presentation (review score: <a href="https://stats.aclrollingreview.org/iterations/2026/may/">top 0.5%</a>). Congrats to Xianglong!</li>
+  <li data-category="pubs"><span class="news-tag news-pubs">Pubs</span> <strong>2026.11</strong>: GeoResNet accepted to KDD 2027 (AI4Sciences Track) as an <span style="color:#d32f2f">oral</span> presentation. Congrats to Rui and Jianhang!</li>
+  <li data-category="pubs"><span class="news-tag news-pubs">Pubs</span> <strong>2026.09</strong>: Manifold embedding accepted to EMNLP 2026 as an <span style="color:#d32f2f">oral</span> presentation (review score: <a href="https://stats.aclrollingreview.org/iterations/2026/may/">top 0.5%</a>). Congrats to Xianglong!</li>
   <li data-category="pubs"><span class="news-tag news-pubs">Pubs</span> <strong>2026.09</strong>: Three papers accepted to NeurIPS 2026: Riemannian transformation, PVFormer, and Umbilic MLR. Congrats to Xianglong and Zihan!</li>
   <li data-category="talks"><span class="news-tag news-talks">Talks</span> <strong>2026.09</strong>: Invited talk on deep learning over Riemannian spaces at <a href="https://www.ntu.edu.sg/spms/news-events/events/detail/2026/09/28/default-calendar/ias-frontiers-conference-on-geometry--dynamics--and-learning">GDL2026</a>.</li>
   <li data-category="talks"><span class="news-tag news-talks">Talks</span> <strong>2026.08</strong>: Invited tutorial on deep learning over Riemannian spaces at <a href="https://mlss2026.is.tuebingen.mpg.de/">MLSS 2026</a>.</li>
@@ -44,7 +44,7 @@
   <li data-category="pubs"><span class="news-tag news-pubs">Pubs</span> <strong>2026.02</strong>: Hyperbolic Busemann neural networks accepted to CVPR 2026.</li>
   <li data-category="pubs"><span class="news-tag news-pubs">Pubs</span> <strong>2026.01</strong>: Five papers accepted to ICLR 2026. Congrats to Zihan, Xianglong, Shanglin, and Chen!</li>
   <li data-category="awards"><span class="news-tag news-awards">Awards</span> <strong>2026.01</strong>: Awarded the DAAD "Research Grants in Germany" scholarship (13,898 EUR, Feb–Sep 2026), supporting a research stay at <a href="https://is.mpg.de/ei">MPI-IS Tübingen</a>.</li>
-  <li data-category="pubs"><span class="news-tag news-pubs">Pubs</span> <strong>2025.11</strong>: Hyperbolic Wasserstein clustering accepted to AAAI 2026 for oral presentation. Congrats to Rui and Yuting!</li>
+  <li data-category="pubs"><span class="news-tag news-pubs">Pubs</span> <strong>2025.11</strong>: Hyperbolic Wasserstein clustering accepted to AAAI 2026 for <span style="color:#d32f2f">oral</span> presentation. Congrats to Rui and Yuting!</li>
   <li data-category="talks"><span class="news-tag news-talks">Talks</span> <strong>2025.10</strong>: Invited tutorial on algebraic approaches to Riemannian deep learning at <a href="http://2025.prcv.cn/CN/Tutorial3/index.asp">PRCV 2025</a>.</li>
   <li data-category="pubs"><span class="news-tag news-pubs">Pubs</span> <strong>2025.09</strong>: Riemannian attention by gyrovector spaces (GyroAtt) accepted to NeurIPS 2025. Congrats to Rui and Chen!</li>
   <li data-category="pubs"><span class="news-tag news-pubs">Pubs</span> <strong>2025.07</strong>: Riemannian BatchNorm via the Cholesky geometry accepted in IEEE TNNLS. Congrats to Rui!</li>
