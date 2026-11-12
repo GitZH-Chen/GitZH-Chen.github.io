@@ -30,6 +30,7 @@ For a complete list of publications, please visit my [Google Scholar](https://sc
 <div class="publication-numbering publication-numbering--published" markdown="1">
 
 **Conferences**
+{% include pubs/Conferences/2027-KDD27-GeoResNet.md %}
 {% include pubs/Conferences/2026-NeurIPS26-BTL.md %}
 {% include pubs/Conferences/2026-NeurIPS26-PVFormer.md %}
 {% include pubs/Conferences/2026-NeurIPS26-UMLR.md %}
